@@ -1,4 +1,4 @@
-# JSCommunity Team Planing Page
+# :spades: JSCommunity Team Planing Page
 
 TODO
 
@@ -9,7 +9,9 @@ Mailing List: DL PL JavaScriptCommunity
 ## Upcomming Trainings
 
 ### RWC
-#### RWC 26.06-29.06
+https://www.devonfw.com/ng-training/
+
+#### ~~RWC 26.06-29.06~~
 | TRAINER       | 26.06	| 27.06 | 28.06 | 29.06 |
 | --            | :---: | :---: | :---: | :---: | 
 | Marek         |       |       |       |       |
@@ -24,8 +26,20 @@ Mailing List: DL PL JavaScriptCommunity
 | Piotr   :new: |       |   X   |   X   |       |
 
 ### Angular Advanced
+https://devonfw-ng-adv-training.github.io/
 
-TODO
+#### AA 3-4.09.2018
+| TRAINER       |   03.09	  |   04.09   |
+| --            |   :---:   |   :---:   |
+| Marek         |           |           |
+| Bartek        |           |           |
+| Rafał J       |           |           |
+| Rafał L       |           |           |
+| Pawełe        |:palm_tree:|:palm_tree:|
+| Adam          |           |           |
+| Tomeczek      |:palm_tree:|:palm_tree:|
+| Krystian      |           |           |
+| Piotr         |           |           |
 
 ### JS Training
 

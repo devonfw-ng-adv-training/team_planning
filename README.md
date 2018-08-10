@@ -100,7 +100,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Pawełe        |                  |                  |
 | Adam          |                  |                  |
 | Tomeczek      |                  |                  |
-| Krystian      |      :new:       |      :new:       |
+| Krystian      |                  |                  |
 | Piotr         |                  |                  |
 
 

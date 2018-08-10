@@ -36,6 +36,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Tomeczek      |   :palm_tree:    |   :palm_tree:    |
 | Krystian      |     :x:          |        :x:       |
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|
+| Bartek B      |                  |                  |
 
 ### Angular Advanced 3-4.09.2018 - Wroclaw
 | TRAINER       |      03.09	     |      04.09       |
@@ -49,6 +50,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Tomeczek      |   :palm_tree:    |   :palm_tree:    |
 | Krystian      |       :new:      |          :new:   |
 | Piotr         |                  |                  |
+| Bartek B      |      :new:       |      :new:       |
 
 ### Rich Web Client 18-21.09.2018 - :exclamation: Poznan :exclamation:
 | TRAINER       |      18.09	     |      19.09       |      20.09	     |      21.09       |
@@ -62,6 +64,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Tomeczek      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | Krystian      |   :palm_tree:    |    :palm_tree:   |     :palm_tree:  |  :palm_tree:     |
 | Piotr         |                  |                  |                  |                  |
+| Bartek B      |                  |                  |                  |                  |
 
 ### Introduction to JS 5-6.11.2018 - :exclamation: Poznan :exclamation:
 | TRAINER       |       5.11	     |       6.11       |
@@ -75,6 +78,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Tomeczek      |                  |                  |
 | Krystian      |      :x:         |       :x:        |
 | Piotr         |                  |                  |
+| Bartek B      |                  |                  |
 
 ### Rich Web Client 19-22.11.2018 - Wroclaw
 | TRAINER       |      19.11	     |      20.11       |      21.11	     |      22.11       |
@@ -88,6 +92,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Tomeczek      |                  |                  |                  |                  |
 | Krystian      |:heavy_check_mark:|:heavy_check_mark:|      :new:       |      :new:       |
 | Piotr         |                  |                  |                  |                  |
+| Bartek B      |                  |                  |                  |                  |
 
 
 ### Angular Advanced 29-30.11.2018 - Wroclaw
@@ -102,6 +107,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Tomeczek      |                  |                  |
 | Krystian      |                  |                  |
 | Piotr         |                  |                  |
+| Bartek B      |                  |                  |
 
 
 

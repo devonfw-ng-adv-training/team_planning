@@ -1,6 +1,12 @@
-# :spades: JSCommunity Team Planing Page
+# :spades: JSCommunity Team Planning Page
 
-TODO
+HowTo - for the concrete Schools and their days mark the following:
+
+:palm_tree: - I am on Vacation
+
+:x: - for NO-GO - not possible because of other Company related activities
+
+:heavy_check_mark: - OK for me
 
 ## Communication
 
@@ -8,48 +14,91 @@ Mailing List: DL PL JavaScriptCommunity
 
 ## Upcomming Trainings
 
-### RWC
+### Rich Web Client
 https://www.devonfw.com/ng-training/
 
-#### ~~RWC 26.06-29.06~~
-| TRAINER       | 26.06	| 27.06 | 28.06 | 29.06 |
-| --            | :---: | :---: | :---: | :---: | 
-| Marek         |       |       |       |       |
-| Bartek        |       |       |       |       |
-| Rafał J       |       |       |   X   |   X   |
-| Rafał L       |       |       |       |       |
-| Pawełe        |   X   |   X   |       |       |
-| Adam          |   X   |       |       |   X   |
-| Tomeczek      |       |   X   |   X   |       |
-| ~~Eva~~       |       |       |       |       |
-| Krystian:new: |   X   |   X   |       |       |
-| Piotr   :new: |       |   X   |   X   |       |
+#### RWC 18-21.09.2018 - :exclamation: Poznan :exclamation:
+| TRAINER       |      18.09	     |      19.09       |      20.09	     |      21.09       |
+| --            |      :---:       |      :---:       |      :---:       |      :---:       |
+| Marek         |                  |                  |                  |                  |
+| Bartek P      |                  |                  |                  |                  |
+| Rafał J       |                  |                  |                  |                  |
+| Rafał L       |                  |                  |                  |                  |
+| Pawełe        |                  |                  |                  |                  |
+| Adam          |       :x:        |       :x:        |       :x:        |       :x:        |
+| Tomeczek      |                  |                  |                  |                  |
+| Krystian      |                  |                  |                  |                  |
+| Piotr         |                  |                  |                  |                  |
+
+#### RWC 19-22.11.2018 - Wroclaw
+| TRAINER       |      19.11	     |      20.11       |      21.11	     |      22.11       |
+| --            |      :---:       |      :---:       |      :---:       |      :---:       |
+| Marek         |                  |                  |                  |                  |
+| Bartek P      |                  |                  |                  |                  |
+| Rafał J       |                  |                  |                  |                  |
+| Rafał L       |                  |                  |                  |                  |
+| Pawełe        |                  |                  |                  |                  |
+| Adam          |                  |                  |                  |                  |
+| Tomeczek      |                  |                  |                  |                  |
+| Krystian      |                  |                  |                  |                  |
+| Piotr         |                  |                  |                  |                  |
 
 ### Angular Advanced
 https://devonfw-ng-adv-training.github.io/
 
-#### AA 3-4.09.2018
-| TRAINER       |   03.09	  |   04.09   |
-| --            |   :---:   |   :---:   |
-| Marek         |           |           |
-| Bartek        |           |           |
-| Rafał J       |           |           |
-| Rafał L       |           |           |
-| Pawełe        |:palm_tree:|:palm_tree:|
-| Adam          |           |           |
-| Tomeczek      |:palm_tree:|:palm_tree:|
-| Krystian      |           |           |
-| Piotr         |           |           |
+#### AA 3-4.09.2018 - Wroclaw
+| TRAINER       |      03.09	     |      04.09       |
+| --            |      :---:       |      :---:       |
+| Marek         |                  |                  |
+| Bartek P      |                  |                  |
+| Rafał J       |                  |                  |
+| Rafał L       |                  |                  |
+| Pawełe        |   :palm_tree:    |   :palm_tree:    |
+| Adam          |                  |                  |
+| Tomeczek      |   :palm_tree:    |   :palm_tree:    |
+| Krystian      |                  |                  |
+| Piotr         |                  |                  |
 
-### JS Training
+#### AA 29-30.11.2018 - Wroclaw
+| TRAINER       |      29.11	     |      30.11       |
+| --            |      :---:       |      :---:       |
+| Marek         |                  |                  |
+| Bartek P      |                  |                  |
+| Rafał J       |                  |                  |
+| Rafał L       |                  |                  |
+| Pawełe        |                  |                  |
+| Adam          |                  |                  |
+| Tomeczek      |                  |                  |
+| Krystian      |                  |                  |
+| Piotr         |                  |                  |
 
-TODO
 
-## Repositories
+### Introduction to Javascript
 
-TODO
+#### JS 5-6.11.2018 - :exclamation: Poznan :exclamation:
+| TRAINER       |      29.11	     |      30.11       |
+| --            |      :---:       |      :---:       |
+| Marek         |                  |                  |
+| Bartek P      |                  |                  |
+| Rafał J       |                  |                  |
+| Rafał L       |                  |                  |
+| Pawełe        |                  |                  |
+| Adam          |                  |                  |
+| Tomeczek      |                  |                  |
+| Krystian      |                  |                  |
+| Piotr         |                  |                  |
 
-## TODO
-1. prepare Env instruction
-2. link to repos
-3. TODO
+### JS Training CUSTOM - 4 SAPUI5
+
+#### JS 29-30.08.2018 - Wroclaw
+| TRAINER       |      29.08	     |      30.08       |
+| --            |      :---:       |      :---:       |
+| Marek         |                  |                  |
+| Bartek P      |                  |                  |
+| Rafał J       |                  |                  |
+| Rafał L       |                  |                  |
+| Pawełe        |                  |                  |
+| Adam          |                  |                  |
+| Tomeczek      |   :palm_tree:    |   :palm_tree:    |
+| Krystian      |                  |                  |
+| Piotr         |:heavy_check_mark:|:heavy_check_mark:|

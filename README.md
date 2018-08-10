@@ -59,7 +59,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Rafał L       |                  |                  |                  |                  |
 | Pawełe        |                  |                  |                  |                  |
 | Adam          |       :x:        |       :x:        |       :x:        |       :x:        |
-| Tomeczek      |                  |                  |                  |                  |
+| Tomeczek      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | Krystian      |                  |                  |                  |                  |
 | Piotr         |                  |                  |                  |                  |
 

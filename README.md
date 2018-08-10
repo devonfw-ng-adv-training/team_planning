@@ -8,6 +8,8 @@ HowTo - for the concrete Schools and their days mark the following:
 
 :heavy_check_mark: - OK for me
 
+:new: - when You are the first time on this school and want to be a lecturer next time
+
 ## Communication
 
 Mailing List: DL PL JavaScriptCommunity
@@ -43,7 +45,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
 | Pawełe        |   :palm_tree:    |   :palm_tree:    |
-| Adam          |                  |                  |
+| Adam          |:heavy_check_mark:|      :new:       |
 | Tomeczek      |   :palm_tree:    |   :palm_tree:    |
 | Krystian      |                  |                  |
 | Piotr         |                  |                  |

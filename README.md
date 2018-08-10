@@ -64,7 +64,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Piotr         |                  |                  |                  |                  |
 
 ### Introduction to JS 5-6.11.2018 - :exclamation: Poznan :exclamation:
-| TRAINER       |      29.11	     |      30.11       |
+| TRAINER       |       5.11	     |       6.11       |
 | --            |      :---:       |      :---:       |
 | Marek         |                  |                  |
 | Bartek P      |                  |                  |

@@ -31,7 +31,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Bartek P      |                  |                  |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
-| Pawełe        |                  |                  |
+| Pawełe        |   :palm_tree:    |   :palm_tree:    |
 | Adam          |                  |                  |
 | Tomeczek      |   :palm_tree:    |   :palm_tree:    |
 | Krystian      |     :x:          |        :x:       |
@@ -83,7 +83,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Bartek P      |                  |                  |                  |                  |
 | Rafał J       |                  |                  |                  |                  |
 | Rafał L       |                  |                  |                  |                  |
-| Pawełe        |                  |                  |                  |                  |
+| Pawełe        |                  |:heavy_check_mark:|:heavy_check_mark:|                  |
 | Adam          |                  |                  |                  |                  |
 | Tomeczek      |                  |                  |                  |                  |
 | Krystian      |:heavy_check_mark:|:heavy_check_mark:|      :new:       |      :new:       |
@@ -97,7 +97,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Bartek P      |                  |                  |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
-| Pawełe        |                  |                  |
+| Pawełe        |:heavy_check_mark:|:heavy_check_mark:|
 | Adam          |                  |                  |
 | Tomeczek      |                  |                  |
 | Krystian      |                  |                  |

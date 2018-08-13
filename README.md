@@ -46,7 +46,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
 | Pawełe        |   :palm_tree:    |   :palm_tree:    |
-| Adam          |:heavy_check_mark:|      :new:       |
+| Adam          |   :palm_tree:    |:heavy_check_mark:|
 | Tomeczek      |   :palm_tree:    |   :palm_tree:    |
 | Krystian      |       :new:      |          :new:   |
 | Piotr         |                  |                  |

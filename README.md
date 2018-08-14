@@ -28,13 +28,13 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | TRAINER       |      29.08	     |      30.08       |
 | --            |      :---:       |      :---:       |
 | Marek         |                  |                  |
-| Bartek P      |                  |                  |
+| Bartek P      |       :x:        |       :x:        |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
 | Pawełe        |   :palm_tree:    |   :palm_tree:    |
 | Adam          |                  |                  |
 | Tomeczek      |   :palm_tree:    |   :palm_tree:    |
-| Krystian      |     :x:          |        :x:       |
+| Krystian      |       :x:        |       :x:        |
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek B      |                  |                  |
 
@@ -42,13 +42,13 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | TRAINER       |      03.09	     |      04.09       |
 | --            |      :---:       |      :---:       |
 | Marek         |                  |                  |
-| Bartek P      |                  |                  |
+| Bartek P      |        ?         |        ?         |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
 | Pawełe        |   :palm_tree:    |   :palm_tree:    |
 | Adam          |   :palm_tree:    |:heavy_check_mark:|
 | Tomeczek      |   :palm_tree:    |   :palm_tree:    |
-| Krystian      |       :new:      |          :new:   |
+| Krystian      |      :new:       |      :new:       |
 | Piotr         |                  |                  |
 | Bartek B      |      :new:       |      :new:       |
 
@@ -56,13 +56,13 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | TRAINER       |      18.09	     |      19.09       |      20.09	     |      21.09       |
 | --            |      :---:       |      :---:       |      :---:       |      :---:       |
 | Marek         |                  |                  |                  |                  |
-| Bartek P      |                  |                  |                  |                  |
+| Bartek P      |       :x:        |       :x:        |       :x:        |       :x:        |
 | Rafał J       |                  |                  |                  |                  |
 | Rafał L       |                  |                  |                  |                  |
 | Pawełe        |                  |                  |                  |                  |
 | Adam          |       :x:        |       :x:        |       :x:        |       :x:        |
 | Tomeczek      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| Krystian      |   :palm_tree:    |    :palm_tree:   |     :palm_tree:  |  :palm_tree:     |
+| Krystian      |   :palm_tree:    |    :palm_tree:   |    :palm_tree:   |   :palm_tree:    |
 | Piotr         |                  |                  |                  |                  |
 | Bartek B      |                  |                  |                  |                  |
 
@@ -84,7 +84,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | TRAINER       |      19.11	     |      20.11       |      21.11	     |      22.11       |
 | --            |      :---:       |      :---:       |      :---:       |      :---:       |
 | Marek         |                  |                  |                  |                  |
-| Bartek P      |                  |                  |                  |                  |
+| Bartek P      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | Rafał J       |                  |                  |                  |                  |
 | Rafał L       |                  |                  |                  |                  |
 | Pawełe        |                  |:heavy_check_mark:|:heavy_check_mark:|                  |
@@ -99,7 +99,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | TRAINER       |      29.11	     |      30.11       |
 | --            |      :---:       |      :---:       |
 | Marek         |                  |                  |
-| Bartek P      |                  |                  |
+| Bartek P      |       ?          |        ?         |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
 | Pawełe        |:heavy_check_mark:|:heavy_check_mark:|

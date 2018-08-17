@@ -8,6 +8,8 @@ HowTo - for the concrete Schools and their days mark the following:
 
 :heavy_check_mark: - OK for me
 
+:beginner: - OK for me, first time
+
 :new: - when You are the first time on this school and want to be a lecturer next time
 
 ## Communication
@@ -38,6 +40,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek B      |                  |                  |
 | Marcin        |       :x:        |       :x:        |
+| Tomasz W      |       :x:        |       :x:        |
 
 ### Angular Advanced 3-4.09.2018 - Wroclaw
 | TRAINER       |      03.09	     |      04.09       |
@@ -53,6 +56,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Piotr         |                  |                  |
 | Bartek B      |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |
+| Tomasz W      |     :beginner:   |       :x:        |
 
 ### Rich Web Client 18-21.09.2018 - :exclamation: Poznan :exclamation:
 | TRAINER       |      18.09	     |      19.09       |      20.09	     |      21.09       |
@@ -68,6 +72,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Piotr         |                  |                  |                  |                  |
 | Bartek B      |                  |                  |                  |                  |
 | Marcin        |       :x:        |       :x:        |       :x:        |       :x:        |
+| Tomasz W      |   :beginner:     |   :beginner:     |   :beginner:     |   :beginner:     |
 
 ### Introduction to JS 5-6.11.2018 - :exclamation: Poznan :exclamation:
 | TRAINER       |       5.11	     |       6.11       |
@@ -83,6 +88,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Piotr         |                  |                  |
 | Bartek B      |                  |                  |
 | Marcin        |      :new:       |      :new:       |
+| Tomasz W      |    :beginner:    |    :beginner:    |
 
 ### Rich Web Client 19-22.11.2018 - Wroclaw
 | TRAINER       |      19.11	     |      20.11       |      21.11	     |      22.11       |
@@ -98,6 +104,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Piotr         |                  |                  |                  |                  |
 | Bartek B      |                  |                  |                  |                  |
 | Marcin        |      :new:       |      :new:       |      :new:       |      :new:       |
+| Tomasz W      |  :beginner:      |    :beginner:    |   :beginner:     |    :beginner:    |
 
 
 ### Angular Advanced 29-30.11.2018 - Wroclaw
@@ -114,5 +121,6 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Piotr         |                  |                  |
 | Bartek B      |                  |                  |
 | Marcin        |      :new:       |      :new:       |
+| Tomasz W      |    :beginner:    |    :beginner:    |
 
 

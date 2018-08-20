@@ -39,6 +39,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Bartek B      |                  |                  |
 | Marcin        |       :x:        |       :x:        |
 | Robert L      |      :new:       |      :new:       |
+| Marcin Ch     |      :new:       |      :new:       |
 
 ### Angular Advanced 3-4.09.2018 - Wroclaw
 | TRAINER       |      03.09	     |      04.09       |

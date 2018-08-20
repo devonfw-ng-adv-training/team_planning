@@ -16,7 +16,7 @@ Mailing List: DL PL JavaScriptCommunity
 
 ## Repositories:
 
-Introduction do JS: TODO
+Introduction do JS: https://github.com/devonfw/js-training
 
 Rich Web Client: https://www.devonfw.com/ng-training/
 

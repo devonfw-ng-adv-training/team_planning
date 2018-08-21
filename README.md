@@ -18,7 +18,7 @@ Mailing List: DL PL JavaScriptCommunity
 
 ## Repositories:
 
-Introduction do JS: TODO
+Introduction do JS: https://github.com/devonfw/js-training
 
 Rich Web Client: https://www.devonfw.com/ng-training/
 
@@ -29,7 +29,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 ### Introduction do JS 29-30.08.2018 - CUSTOM - 4 SAPUI5 - Wroclaw
 | TRAINER       |      29.08	     |      30.08       |
 | --            |      :---:       |      :---:       |
-| Marek         |                  |                  |
+| Marek         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek P      |       :x:        |       :x:        |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
@@ -41,11 +41,13 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Bartek B      |                  |                  |
 | Marcin        |       :x:        |       :x:        |
 | Tomasz W      |       :x:        |       :x:        |
+| Robert L      |      :new:       |      :new:       |
+| Marcin Ch     |      :new:       |      :new:       |
 
 ### Angular Advanced 3-4.09.2018 - Wroclaw
 | TRAINER       |      03.09	     |      04.09       |
 | --            |      :---:       |      :---:       |
-| Marek         |                  |                  |
+| Marek         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek P      |        ?         |        ?         |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
@@ -57,6 +59,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Bartek B      |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |
 | Tomasz W      |     :beginner:   |       :x:        |
+| Robert L      |      :new:       |      :new:       |
 
 ### Rich Web Client 18-21.09.2018 - :exclamation: Poznan :exclamation:
 | TRAINER       |      18.09	     |      19.09       |      20.09	     |      21.09       |
@@ -105,7 +108,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Bartek B      |                  |                  |                  |                  |
 | Marcin        |      :new:       |      :new:       |      :new:       |      :new:       |
 | Tomasz W      |  :beginner:      |    :beginner:    |   :beginner:     |    :beginner:    |
-
+| Robert L      |        ?         |        ?         |        ?         |        ?         |
 
 ### Angular Advanced 29-30.11.2018 - Wroclaw
 | TRAINER       |      29.11	     |      30.11       |
@@ -122,5 +125,6 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Bartek B      |                  |                  |
 | Marcin        |      :new:       |      :new:       |
 | Tomasz W      |    :beginner:    |    :beginner:    |
+| Robert L      |        ?         |        ?         |
 
 

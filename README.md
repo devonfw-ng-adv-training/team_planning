@@ -27,7 +27,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 ### Introduction do JS 29-30.08.2018 - CUSTOM - 4 SAPUI5 - Wroclaw
 | TRAINER       |      29.08	     |      30.08       |
 | --            |      :---:       |      :---:       |
-| Marek         |                  |                  |
+| Marek         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek P      |       :x:        |       :x:        |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
@@ -44,7 +44,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 ### Angular Advanced 3-4.09.2018 - Wroclaw
 | TRAINER       |      03.09	     |      04.09       |
 | --            |      :---:       |      :---:       |
-| Marek         |                  |                  |
+| Marek         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek P      |        ?         |        ?         |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |

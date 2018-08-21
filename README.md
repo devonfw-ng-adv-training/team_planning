@@ -55,7 +55,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Adam          |   :palm_tree:    |:heavy_check_mark:|
 | Tomeczek      |   :palm_tree:    |   :palm_tree:    |
 | Krystian      |      :new:       |      :new:       |
-| Piotr         |                  |                  |
+| Piotr         |       :x:        |       :x:        |
 | Bartek B      |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |
 | Tomasz W      |     :beginner:   |       :x:        |
@@ -121,7 +121,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Adam          |                  |                  |
 | Tomeczek      |                  |                  |
 | Krystian      |                  |                  |
-| Piotr         |                  |                  |
+| Piotr         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek B      |                  |                  |
 | Marcin        |      :new:       |      :new:       |
 | Tomasz W      |    :beginner:    |    :beginner:    |

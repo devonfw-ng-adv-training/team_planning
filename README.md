@@ -50,7 +50,7 @@ The list is open :unlock:
 | Piotr         |:heavy_check_mark:|       :x:        |
 | Bartek B      |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |
-| Tomasz W      |     :beginner:   |       :x:        |
+| Tomasz W      |       :x:        |       :x:        |
 | Robert L      |      :new:       |      :new:       |
 
 ### Rich Web Client 18-21.09.2018 - :exclamation: Poznan :exclamation:

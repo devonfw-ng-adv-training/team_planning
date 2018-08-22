@@ -27,20 +27,11 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 ## Upcomming Trainings - chronological order
 
 ### Introduction do JS 29-30.08.2018 - CUSTOM - 4 SAPUI5 - Wroclaw
+-- TEAM COMPLETE
 | TRAINER       |      29.08	     |      30.08       |
 | --            |      :---:       |      :---:       |
 | Marek         |:heavy_check_mark:|:heavy_check_mark:|
-| Bartek P      |       :x:        |       :x:        |
-| Rafał J       |                  |                  |
-| Rafał L       |                  |                  |
-| Pawełe        |   :palm_tree:    |   :palm_tree:    |
-| Adam          |                  |                  |
-| Tomeczek      |   :palm_tree:    |   :palm_tree:    |
-| Krystian      |       :x:        |       :x:        |
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|
-| Bartek B      |                  |                  |
-| Marcin        |       :x:        |       :x:        |
-| Tomasz W      |       :x:        |       :x:        |
 | Robert L      |      :new:       |      :new:       |
 | Marcin Ch     |      :new:       |      :new:       |
 
@@ -51,30 +42,19 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Bartek P      |        ?         |        ?         |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
-| Pawełe        |   :palm_tree:    |   :palm_tree:    |
 | Adam          |   :palm_tree:    |:heavy_check_mark:|
-| Tomeczek      |   :palm_tree:    |   :palm_tree:    |
 | Krystian      |      :new:       |      :new:       |
-| Piotr         |       :x:        |       :x:        |
+| Piotr         |:heavy_check_mark:|       :x:        |
 | Bartek B      |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |
 | Tomasz W      |     :beginner:   |       :x:        |
 | Robert L      |      :new:       |      :new:       |
 
 ### Rich Web Client 18-21.09.2018 - :exclamation: Poznan :exclamation:
+-- TEAM COMPLETE
 | TRAINER       |      18.09	     |      19.09       |      20.09	     |      21.09       |
 | --            |      :---:       |      :---:       |      :---:       |      :---:       |
-| Marek         |                  |                  |                  |                  |
-| Bartek P      |       :x:        |       :x:        |       :x:        |       :x:        |
-| Rafał J       |                  |                  |                  |                  |
-| Rafał L       |                  |                  |                  |                  |
-| Pawełe        |                  |                  |                  |                  |
-| Adam          |       :x:        |       :x:        |       :x:        |       :x:        |
 | Tomeczek      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| Krystian      |   :palm_tree:    |    :palm_tree:   |    :palm_tree:   |   :palm_tree:    |
-| Piotr         |                  |                  |                  |                  |
-| Bartek B      |                  |                  |                  |                  |
-| Marcin        |       :x:        |       :x:        |       :x:        |       :x:        |
 | Tomasz W      |   :beginner:     |   :beginner:     |   :beginner:     |   :beginner:     |
 
 ### Introduction to JS 5-6.11.2018 - :exclamation: Poznan :exclamation:

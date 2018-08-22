@@ -27,7 +27,8 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 ## Upcomming Trainings - chronological order
 
 ### Introduction do JS 29-30.08.2018 - CUSTOM - 4 SAPUI5 - Wroclaw
--- TEAM COMPLETE
+The list is closed :lock:
+
 | TRAINER       |      29.08	     |      30.08       |
 | --            |      :---:       |      :---:       |
 | Marek         |:heavy_check_mark:|:heavy_check_mark:|
@@ -36,6 +37,8 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Marcin Ch     |      :new:       |      :new:       |
 
 ### Angular Advanced 3-4.09.2018 - Wroclaw
+The list is open :unlock:
+
 | TRAINER       |      03.09	     |      04.09       |
 | --            |      :---:       |      :---:       |
 | Marek         |:heavy_check_mark:|:heavy_check_mark:|
@@ -51,13 +54,16 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Robert L      |      :new:       |      :new:       |
 
 ### Rich Web Client 18-21.09.2018 - :exclamation: Poznan :exclamation:
--- TEAM COMPLETE
+The list is closed :lock:
+
 | TRAINER       |      18.09	     |      19.09       |      20.09	     |      21.09       |
 | --            |      :---:       |      :---:       |      :---:       |      :---:       |
 | Tomeczek      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | Tomasz W      |   :beginner:     |   :beginner:     |   :beginner:     |   :beginner:     |
 
 ### Introduction to JS 5-6.11.2018 - :exclamation: Poznan :exclamation:
+The list is open :unlock:
+
 | TRAINER       |       5.11	     |       6.11       |
 | --            |      :---:       |      :---:       |
 | Marek         |                  |                  |
@@ -74,6 +80,8 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Tomasz W      |    :beginner:    |    :beginner:    |
 
 ### Rich Web Client 19-22.11.2018 - Wroclaw
+The list is open :unlock:
+
 | TRAINER       |      19.11	     |      20.11       |      21.11	     |      22.11       |
 | --            |      :---:       |      :---:       |      :---:       |      :---:       |
 | Marek         |                  |                  |                  |                  |
@@ -91,6 +99,8 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 | Robert L      |        ?         |        ?         |        ?         |        ?         |
 
 ### Angular Advanced 29-30.11.2018 - Wroclaw
+The list is open :unlock:
+
 | TRAINER       |      29.11	     |      30.11       |
 | --            |      :---:       |      :---:       |
 | Marek         |                  |                  |

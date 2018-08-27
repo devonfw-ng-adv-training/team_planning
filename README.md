@@ -36,21 +36,18 @@ The list is closed :lock:
 | Robert L      |      :new:       |      :new:       |
 | Marcin Ch     |      :new:       |      :new:       |
 
-### Angular Advanced 3-4.09.2018 - Wroclaw
-The list is open :unlock:
+### ~~Angular Advanced 3-4.09.2018 - Wroclaw~~
+The school has been canceled
 
 | TRAINER       |      03.09	     |      04.09       |
 | --            |      :---:       |      :---:       |
 | Marek         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek P      |        ?         |        ?         |
-| Rafał J       |                  |                  |
-| Rafał L       |                  |                  |
 | Adam          |   :palm_tree:    |:heavy_check_mark:|
 | Krystian      |      :new:       |      :new:       |
 | Piotr         |:heavy_check_mark:|       :x:        |
 | Bartek B      |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |
-| Tomasz W      |       :x:        |       :x:        |
 | Robert L      |      :new:       |      :new:       |
 
 ### Rich Web Client 18-21.09.2018 - :exclamation: Poznan :exclamation:

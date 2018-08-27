@@ -79,7 +79,7 @@ The list is open :unlock:
 | Tomeczek      |                  |                  |                  |                  |
 | Krystian      |:heavy_check_mark:|:heavy_check_mark:|      :new:       |      :new:       |
 | Piotr         |                  |                  |                  |                  |
-| Bartek B      |                  |                  |                  |                  |
+| Bartek B      |      :new:       |      :new:       |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |      :new:       |      :new:       |
 | Tomasz W      |  :beginner:      |    :beginner:    |   :beginner:     |    :beginner:    |
 | Robert L      |        ?         |        ?         |        ?         |        ?         |
@@ -98,7 +98,7 @@ The list is open :unlock:
 | Tomeczek      |                  |                  |
 | Krystian      |                  |                  |
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|
-| Bartek B      |                  |                  |
+| Bartek B      |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |
 | Tomasz W      |    :beginner:    |    :beginner:    |
 | Robert L      |        ?         |        ?         |

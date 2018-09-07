@@ -46,6 +46,24 @@ The list is closed :lock:
 | Tomeczek      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | Tomasz W      |   :beginner:     |   :beginner:     |   :beginner:     |   :beginner:     |
 
+### Introduction to JS 3-4.10.2018 - Wrocław
+The list is closed :lock:
+
+| TRAINER       |       3.10	     |       4.10       |
+| --            |      :---:       |      :---:       |
+| Marek         |                  |                  |
+| Bartek P      |                  |                  |
+| Rafał J       |                  |                  |
+| Rafał L       |                  |                  |
+| Pawełe        |                  |                  |
+| Adam          |                  |                  |
+| Tomeczek      |                  |                  |
+| Krystian      |                  |                  |
+| Piotr         |                  |                  |
+| Bartek B      |                  |                  |
+| Marcin        |                  |                  |
+| Tomasz W      |                  |                  |
+
 ### Introduction to JS 5-6.11.2018 - :exclamation: Poznan :exclamation:
 The list is open :unlock:
 

@@ -63,6 +63,7 @@ The list is closed :lock:
 | Bartek B      |                  |                  |
 | Marcin        |                  |                  |
 | Tomasz W      |                  |                  |
+| Marcin Ch     |    :beginner:    |    :beginner:    |
 
 ### Introduction to JS 5-6.11.2018 - :exclamation: Poznan :exclamation:
 The list is open :unlock:
@@ -81,6 +82,7 @@ The list is open :unlock:
 | Bartek B      |                  |                  |
 | Marcin        |      :new:       |      :new:       |
 | Tomasz W      |    :beginner:    |    :beginner:    |
+| Marcin Ch     |    :beginner:    |    :beginner:    |
 
 ### Rich Web Client 19-22.11.2018 - Wroclaw
 The list is open :unlock:

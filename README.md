@@ -26,18 +26,6 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 
 ## Upcomming Trainings - chronological order
 
-### ~~Introduction do JS 29-30.08.2018 - CUSTOM - 4 SAPUI5 - Wroclaw~~
-The school has been completed.
-
-| TRAINER       |      29.08	     |      30.08       |
-| --            |      :---:       |      :---:       |
-| Marek         |:heavy_check_mark:|:heavy_check_mark:|
-| Piotr         |:heavy_check_mark:|:heavy_check_mark:|
-| Marcin Ch     |      :new:       |      :new:       |
-
-### ~~Angular Advanced 3-4.09.2018 - Wroclaw~~
-The school has been canceled
-
 ### Rich Web Client 18-21.09.2018 - :exclamation: Poznan :exclamation:
 The list is closed :lock:
 
@@ -47,7 +35,7 @@ The list is closed :lock:
 | Tomasz W      |   :beginner:     |   :beginner:     |   :beginner:     |   :beginner:     |
 
 ### Introduction to JS 3-4.10.2018 - Wrocław
-The list is closed :lock:
+The list is open :unlock:
 
 | TRAINER       |       3.10	     |       4.10       |
 | --            |      :---:       |      :---:       |

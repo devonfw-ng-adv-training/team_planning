@@ -41,7 +41,7 @@ The list is open :unlock:
 | Krystian      |                  |                  |
 | Piotr         |                  |                  |
 | Bartek B      |                  |                  |
-| Marcin        |                  |                  |
+| Marcin        |      :new:       |      :new:       |
 | Tomasz W      |                  |                  |
 | Marcin Ch     |:heavy_check_mark:|:heavy_check_mark:|
 

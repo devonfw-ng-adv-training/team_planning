@@ -44,6 +44,7 @@ The list is open :unlock:
 | Marcin        |      :new:       |      :new:       |
 | Tomasz W      |   :beginner:     |   :beginner:     |
 | Marcin Ch     |:heavy_check_mark:|:heavy_check_mark:|
+| Robert        |                  |      :new:       |
 
 ### Introduction to JS 5-6.11.2018 - :exclamation: Poznan :exclamation:
 The list is open :unlock:

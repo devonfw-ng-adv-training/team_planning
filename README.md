@@ -39,7 +39,7 @@ The list is open :unlock:
 | Adam          |                  |                  |
 | Tomeczek      |                  |                  |
 | Krystian      |                  |                  |
-| Piotr         |                  |                  |
+| Piotr         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek B      |                  |                  |
 | Marcin        |      :new:       |      :new:       |
 | Tomasz W      |   :beginner:     |   :beginner:     |

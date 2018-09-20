@@ -93,7 +93,7 @@ The list is open :unlock:
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
 | Pawełe        |:heavy_check_mark:|:heavy_check_mark:|
-| Adam          |                  |                  |
+| Adam          |:heavy_check_mark:|:heavy_check_mark:|
 | Tomeczek      |                  |                  |
 | Krystian      |                  |                  |
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|

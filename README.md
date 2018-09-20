@@ -37,7 +37,7 @@ The list is open :unlock:
 | Rafał L       |                  |                  |
 | Pawełe        |                  |                  |
 | Adam          |      :new:       |      :new:       |
-| Tomeczek      |                  |                  |
+| Tomeczek      |       :x:        |       :x:        |
 | Krystian      |                  |                  |
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek B      |                  |                  |

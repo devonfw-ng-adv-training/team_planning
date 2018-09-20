@@ -31,7 +31,7 @@ The list is open :unlock:
 
 | TRAINER       |       3.10	     |       4.10       |
 | --            |      :---:       |      :---:       |
-| Marek         |                  |                  |
+| Marek         |:heavy_check_mark:|                  |
 | Bartek P      |                  |                  |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |

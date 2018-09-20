@@ -42,7 +42,7 @@ The list is open :unlock:
 | Piotr         |                  |                  |
 | Bartek B      |                  |                  |
 | Marcin        |      :new:       |      :new:       |
-| Tomasz W      |                  |                  |
+| Tomasz W      |   :beginner:     |   :beginner:     |
 | Marcin Ch     |:heavy_check_mark:|:heavy_check_mark:|
 
 ### Introduction to JS 5-6.11.2018 - :exclamation: Poznan :exclamation:

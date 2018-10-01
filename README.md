@@ -27,20 +27,12 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 ## Upcomming Trainings - chronological order
 
 ### Introduction to JS 3-4.10.2018 - Wrocław
-The list is open :unlock:
+The list is closed :lock:
 
 | TRAINER       |       3.10	     |       4.10       |
 | --            |      :---:       |      :---:       |
 | Marek         |:heavy_check_mark:|                  |
-| Bartek P      |                  |                  |
-| Rafał J       |                  |                  |
-| Rafał L       |                  |                  |
-| Pawełe        |                  |                  |
-| Adam          |       :x:        |       :x:        |
-| Tomeczek      |       :x:        |       :x:        |
-| Krystian      |                  |                  |
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|
-| Bartek B      |                  |                  |
 | Marcin        |      :new:       |      :new:       |
 | Tomasz W      |   :beginner:     |   :beginner:     |
 | Marcin Ch     |:heavy_check_mark:|:heavy_check_mark:|

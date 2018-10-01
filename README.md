@@ -36,7 +36,7 @@ The list is open :unlock:
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
 | Pawełe        |                  |                  |
-| Adam          |      :new:       |      :new:       |
+| Adam          |       :x:        |       :x:        |
 | Tomeczek      |       :x:        |       :x:        |
 | Krystian      |                  |                  |
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|

@@ -49,8 +49,8 @@ The list is open :unlock:
 | Rafał L       |                  |                  |
 | Pawełe        |                  |                  |
 | Adam          |                  |                  |
-| Tomeczek      |                  |                  |
-| Krystian      |      :x:         |       :x:        |
+| Tomeczek      |       :x:        |       :x:        |
+| Krystian      |       :x:        |       :x:        |
 | Piotr         |                  |                  |
 | Bartek B      |                  |                  |
 | Marcin        |      :new:       |      :new:       |
@@ -68,7 +68,7 @@ The list is open :unlock:
 | Rafał L       |                  |                  |                  |                  |
 | Pawełe        |                  |:heavy_check_mark:|:heavy_check_mark:|                  |
 | Adam          |                  |                  |                  |                  |
-| Tomeczek      |                  |                  |                  |                  |
+| Tomeczek      |                  |                  |:heavy_check_mark:|:heavy_check_mark:|
 | Krystian      |:heavy_check_mark:|:heavy_check_mark:|      :new:       |      :new:       |
 | Piotr         |                  |                  |                  |                  |
 | Bartek B      |      :new:       |      :new:       |      :new:       |      :new:       |
@@ -87,7 +87,7 @@ The list is open :unlock:
 | Rafał L       |                  |                  |
 | Pawełe        |:heavy_check_mark:|:heavy_check_mark:|
 | Adam          |:heavy_check_mark:|:heavy_check_mark:|
-| Tomeczek      |                  |                  |
+| Tomeczek      |       :x:        |       :x:        |
 | Krystian      |                  |                  |
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek B      |      :new:       |      :new:       |

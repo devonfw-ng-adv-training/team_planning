@@ -34,7 +34,6 @@ The list is closed :lock:
 | Marek         |:heavy_check_mark:|                  |
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|
 | Marcin        |      :new:       |      :new:       |
-| Tomasz W      |       :x:        |       :x:        |
 | Marcin Ch     |:heavy_check_mark:|:heavy_check_mark:|
 | Robert        |                  |      :new:       |
 
@@ -49,8 +48,6 @@ The list is open :unlock:
 | Rafał L       |                  |                  |
 | Pawełe        |                  |                  |
 | Adam          |                  |                  |
-| Tomeczek      |       :x:        |       :x:        |
-| Krystian      |       :x:        |       :x:        |
 | Piotr         |                  |                  |
 | Bartek B      |                  |                  |
 | Marcin        |      :new:       |      :new:       |
@@ -73,7 +70,6 @@ The list is open :unlock:
 | Piotr         |                  |                  |                  |                  |
 | Bartek B      |      :new:       |      :new:       |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |      :new:       |      :new:       |
-| Tomasz W      |       :x:        |       :x:        |       :x:        |       :x:        |
 | Robert L      |        ?         |        ?         |        ?         |        ?         |
 
 ### Angular Advanced 29-30.11.2018 - Wroclaw
@@ -87,7 +83,6 @@ The list is open :unlock:
 | Rafał L       |                  |                  |
 | Pawełe        |:heavy_check_mark:|:heavy_check_mark:|
 | Adam          |:heavy_check_mark:|:heavy_check_mark:|
-| Tomeczek      |       :x:        |       :x:        |
 | Krystian      |                  |                  |
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek B      |      :new:       |      :new:       |

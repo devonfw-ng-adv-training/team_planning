@@ -53,6 +53,7 @@ The list is open :unlock:
 | Marcin        |      :new:       |      :new:       |
 | Tomasz W      |    :beginner:    |    :beginner:    |
 | Marcin Ch     |:heavy_check_mark:|:heavy_check_mark:|
+| Sebastian W   |      :new:       |      :new:       |
 
 ### Rich Web Client 19-22.11.2018 - Wroclaw
 The list is open :unlock:
@@ -89,5 +90,5 @@ The list is open :unlock:
 | Marcin        |      :new:       |      :new:       |
 | Tomasz W      |    :beginner:    |    :beginner:    |
 | Robert L      |        ?         |        ?         |
-
+| Sebastian W   |      :new:       |      :new:       |
 

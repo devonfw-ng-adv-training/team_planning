@@ -67,7 +67,7 @@ The list is open :unlock:
 | Pawełe        |                  |:heavy_check_mark:|:heavy_check_mark:|                  |
 | Adam          |                  |                  |                  |                  |
 | Tomeczek      |                  |                  |:heavy_check_mark:|:heavy_check_mark:|
-| Krystian      |:heavy_check_mark:|:heavy_check_mark:|      :new:       |      :new:       |
+| Krystian      |:beginner:        |:beginner:        |      :new:       |      :new:       |
 | Piotr         |                  |                  |                  |                  |
 | Bartek B      |      :new:       |      :new:       |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |      :new:       |      :new:       |

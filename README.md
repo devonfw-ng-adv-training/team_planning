@@ -40,7 +40,7 @@ The list is open :unlock:
 | Piotr         |                  |                  |
 | Bartek B      |                  |                  |
 | Marcin        |      :new:       |      :new:       |
-| Tomasz W      |    :beginner:    |    :beginner:    |
+| Tomasz W      |                  |                  |
 | Marcin Ch     |:heavy_check_mark:|:heavy_check_mark:|
 | Sebastian W   |      :new:       |      :new:       |
 
@@ -61,6 +61,7 @@ The list is open :unlock:
 | Bartek B      |      :new:       |      :new:       |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |      :new:       |      :new:       |
 | Robert L      |        ?         |        ?         |        ?         |        ?         |
+| Tomasz W      |                  |                  |                  |                  |
 
 ### Angular Advanced 29-30.11.2018 - Wroclaw
 The list is open :unlock:

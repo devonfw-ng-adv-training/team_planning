@@ -39,7 +39,7 @@ The list is open :unlock:
 | Adam          |                  |                  |
 | Piotr         |                  |                  |
 | Bartek B      |                  |                  |
-| Marcin        |      :new:       |      :new:       |
+| Marcin        |                  |                  |
 | Tomasz W      |                  |                  |
 | Marcin Ch     |:heavy_check_mark:|:heavy_check_mark:|
 | Sebastian W   |      :new:       |      :new:       |

@@ -31,23 +31,23 @@ The list is open :unlock:
 
 | TRAINER       |       5.11	     |       6.11       |
 | --            |      :---:       |      :---:       |
-| Marek         |                  |                  |
+| Marek M       |                  |                  |
 | Bartek P      |                  |                  |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
-| Pawełe        |       :x:        |       :x:        |
-| Adam          |                  |                  |
-| Piotr         |                  |                  |
+| Pawełe K      |       :x:        |       :x:        |
+| Adam P        |                  |                  |
+| Piotr S       |                  |                  |
 | Bartek B      |                  |                  |
-| Marcin        |                  |                  |
+| Marcin S      |                  |                  |
 | Tomasz W      |                  |                  |
 | Marcin Ch     |:heavy_check_mark:|:heavy_check_mark:|
 | Sebastian W   |      :new:       |      :new:       |
-| Krystian      |                  |                  |
-| Michal        |                  |                  |
-| Robert        |                  |                  |
-| Darek         |                  |                  |
-| Mieczyslaw    |                  |                  |
+| Krystian J    |                  |                  |
+| Michal J      |                  |                  |
+| Robert L      |                  |                  |
+| Darek P       |                  |                  |
+| Mieczyslaw S  |                  |                  |
 
 
 ### Rich Web Client 19-22.11.2018 - Wroclaw

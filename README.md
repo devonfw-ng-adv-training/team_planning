@@ -35,7 +35,7 @@ The list is open :unlock:
 | Bartek P      |                  |                  |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
-| Pawełe        |                  |                  |
+| Pawełe        |       :x:        |       :x:        |
 | Adam          |                  |                  |
 | Piotr         |                  |                  |
 | Bartek B      |                  |                  |
@@ -43,6 +43,12 @@ The list is open :unlock:
 | Tomasz W      |                  |                  |
 | Marcin Ch     |:heavy_check_mark:|:heavy_check_mark:|
 | Sebastian W   |      :new:       |      :new:       |
+| Krystian      |                  |                  |
+| Michal        |                  |                  |
+| Robert        |                  |                  |
+| Darek         |                  |                  |
+| Mieczyslaw    |                  |                  |
+
 
 ### Rich Web Client 19-22.11.2018 - Wroclaw
 The list is open :unlock:

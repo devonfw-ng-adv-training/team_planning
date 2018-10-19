@@ -64,6 +64,6 @@ The list is open :unlock:
 | Bartek B      |      :new:       |      :new:       |
 | Marcin Ch     |      :new:       |      :new:       |
 | Tomasz W      |    :beginner:    |    :beginner:    |
-| Robert L      |        ?         |        ?         |
+| Robert L      |    :beginner:    |    :beginner:    |
 | Sebastian W   |      :new:       |      :new:       |
 

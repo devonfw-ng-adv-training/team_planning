@@ -42,27 +42,27 @@ The list is closed :lock: - max 5 trainers / day
 | TRAINER       |      19.11	     |      20.11       |      21.11	     |      22.11       |
 | --            |      :---:       |      :---:       |      :---:       |      :---:       |
 | Bartek P      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| Pawełe        |                  |:heavy_check_mark:|:heavy_check_mark:|                  |
-| Tomeczek      |                  |                  |:heavy_check_mark:|:heavy_check_mark:|
-| Krystian      |    :beginner:    |    :beginner:    |      :new:       |      :new:       |
+| Pawełe K      |                  |:heavy_check_mark:|:heavy_check_mark:|                  |
+| Tomeczek Sz   |                  |                  |:heavy_check_mark:|:heavy_check_mark:|
+| Krystian J    |    :beginner:    |    :beginner:    |      :new:       |      :new:       |
 | Bartek B      |      :new:       |      :new:       |      :new:       |      :new:       |
-| Marcin        |      :new:       |      :new:       |      :new:       |      :new:       |
+| Marcin Ch     |      :new:       |      :new:       |      :new:       |      :new:       |
 
 ### Angular Advanced 29-30.11.2018 - Wroclaw
 The list is open :unlock:
 
 | TRAINER       |      29.11	     |      30.11       |
 | --            |      :---:       |      :---:       |
-| Marek         |                  |                  |
+| Marek M       |                  |                  |
 | Bartek P      |       ?          |        ?         |
 | Rafał J       |                  |                  |
 | Rafał L       |                  |                  |
-| Pawełe        |:heavy_check_mark:|:heavy_check_mark:|
-| Adam          |:heavy_check_mark:|:heavy_check_mark:|
-| Krystian      |       :x:        |       :x:        |
-| Piotr         |:heavy_check_mark:|:heavy_check_mark:|
+| Pawełe K      |:heavy_check_mark:|:heavy_check_mark:|
+| Adam P        |:heavy_check_mark:|:heavy_check_mark:|
+| Krystian J    |       :x:        |       :x:        |
+| Piotr S       |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek B      |      :new:       |      :new:       |
-| Marcin        |      :new:       |      :new:       |
+| Marcin Ch     |      :new:       |      :new:       |
 | Tomasz W      |    :beginner:    |    :beginner:    |
 | Robert L      |        ?         |        ?         |
 | Sebastian W   |      :new:       |      :new:       |

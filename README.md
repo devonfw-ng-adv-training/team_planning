@@ -43,7 +43,7 @@ The list is open :unlock:
 | Tomasz W      |                  |                  |
 | Marcin Ch     |:heavy_check_mark:|:heavy_check_mark:|
 | Sebastian W   |      :new:       |      :new:       |
-| Krystian J    |                  |                  |
+| Krystian J    |    :beginner:    |    :beginner:    |
 | Michal J      |                  |                  |
 | Robert L      |                  |                  |
 | Darek P       |                  |                  |
@@ -62,7 +62,7 @@ The list is open :unlock:
 | Pawełe        |                  |:heavy_check_mark:|:heavy_check_mark:|                  |
 | Adam          |                  |                  |                  |                  |
 | Tomeczek      |                  |                  |:heavy_check_mark:|:heavy_check_mark:|
-| Krystian      |:beginner:        |:beginner:        |      :new:       |      :new:       |
+| Krystian      |    :beginner:    |    :beginner:    |      :new:       |      :new:       |
 | Piotr         |                  |                  |                  |                  |
 | Bartek B      |      :new:       |      :new:       |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |      :new:       |      :new:       |
@@ -80,7 +80,7 @@ The list is open :unlock:
 | Rafał L       |                  |                  |
 | Pawełe        |:heavy_check_mark:|:heavy_check_mark:|
 | Adam          |:heavy_check_mark:|:heavy_check_mark:|
-| Krystian      |                  |                  |
+| Krystian      |       :x:        |       :x:        |
 | Piotr         |:heavy_check_mark:|:heavy_check_mark:|
 | Bartek B      |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |

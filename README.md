@@ -51,23 +51,16 @@ The list is open :unlock:
 
 
 ### Rich Web Client 19-22.11.2018 - Wroclaw
-The list is open :unlock:
+The list is open :closed: - max 5 trainers / day
 
 | TRAINER       |      19.11	     |      20.11       |      21.11	     |      22.11       |
 | --            |      :---:       |      :---:       |      :---:       |      :---:       |
-| Marek         |                  |                  |                  |                  |
 | Bartek P      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| Rafał J       |                  |                  |                  |                  |
-| Rafał L       |                  |                  |                  |                  |
 | Pawełe        |                  |:heavy_check_mark:|:heavy_check_mark:|                  |
-| Adam          |                  |                  |                  |                  |
 | Tomeczek      |                  |                  |:heavy_check_mark:|:heavy_check_mark:|
 | Krystian      |    :beginner:    |    :beginner:    |      :new:       |      :new:       |
-| Piotr         |                  |                  |                  |                  |
 | Bartek B      |      :new:       |      :new:       |      :new:       |      :new:       |
 | Marcin        |      :new:       |      :new:       |      :new:       |      :new:       |
-| Robert L      |        ?         |        ?         |        ?         |        ?         |
-| Tomasz W      |                  |                  |                  |                  |
 
 ### Angular Advanced 29-30.11.2018 - Wroclaw
 The list is open :unlock:

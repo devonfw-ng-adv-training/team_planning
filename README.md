@@ -18,11 +18,17 @@ Mailing List: DL PL JavaScriptCommunity
 
 ## Repositories:
 
-Introduction do JS: https://github.com/devonfw/js-training
+Introduction do JS: 
+* Repo: https://github.com/devonfw/js-training
+* Slides: https://www.devonfw.com/js-training
 
-Rich Web Client: https://www.devonfw.com/ng-training/
+Rich Web Client: 
+* Repo: https://github.com/devonfw/ng-training
+* Slides: https://www.devonfw.com/ng-training 
 
-Angular Advanced: https://devonfw-ng-adv-training.github.io/
+Angular Advanced: 
+* Repo: https://github.com/devonfw-ng-adv-training/devonfw-ng-adv-training.github.io
+* Slides: https://devonfw-ng-adv-training.github.io/
 
 ## Upcomming Trainings - chronological order
 

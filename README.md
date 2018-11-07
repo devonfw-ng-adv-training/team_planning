@@ -26,16 +26,6 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 
 ## Upcomming Trainings - chronological order
 
-### ~~Introduction to JS 5-6.11.2018 - :exclamation: Poznan :exclamation:~~
-The list is closed :lock:
-
-| TRAINER       |       5.11	     |       6.11       |
-| --            |      :---:       |      :---:       |
-| Marcin Ch     |:heavy_check_mark:|:heavy_check_mark:|
-| Sebastian W   |      :new:       |      :new:       |
-| Krystian J    |    :beginner:    |    :beginner:    |
-
-
 ### Rich Web Client 19-22.11.2018 - Wroclaw
 The list is closed :lock: - max 5 trainers / day
 

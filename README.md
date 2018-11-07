@@ -26,7 +26,7 @@ Angular Advanced: https://devonfw-ng-adv-training.github.io/
 
 ## Upcomming Trainings - chronological order
 
-### Introduction to JS 5-6.11.2018 - :exclamation: Poznan :exclamation:
+### ~~Introduction to JS 5-6.11.2018 - :exclamation: Poznan :exclamation:~~
 The list is closed :lock:
 
 | TRAINER       |       5.11	     |       6.11       |

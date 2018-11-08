@@ -62,3 +62,26 @@ The list is open :unlock:
 | Robert L      |    :beginner:    |    :beginner:    |
 | Sebastian W   |      :new:       |      :new:       |
 
+### Elemnts of the Rich Web Client School - :exclamation: NOT CONFIRMED :exclamation: - 09-11.01.2019 - Wroclaw
+
+| TRAINER       |      09.01	     |      10.01       |      11.01	     |
+| --            |      :---:       |      :---:       |      :---:       |
+| Adam P        |                  |                  |                  |
+| Bartek B      |                  |                  |                  |
+| Bartek P      |                  |                  |                  |
+| Darek P       |                  |                  |                  |
+| Krystian J    |                  |                  |                  |
+| Marcin Ch     |                  |                  |                  |
+| Marcin S      |                  |                  |                  |
+| Marek M       |                  |                  |                  |
+| Michal J      |                  |                  |                  |
+| Mietek S      |                  |                  |                  |
+| Mikolaj R     |                  |                  |                  |
+| Pawełe K      |                  |                  |                  |
+| Piotr S       |                  |                  |                  |
+| Rafał J       |                  |                  |                  |
+| Rafał L       |                  |                  |                  |
+| Robert L      |                  |                  |                  |
+| Sebastian W   |                  |                  |                  |
+| Tomasz Sz     |                  |                  |                  |
+| Tomasz W      |                  |                  |                  |

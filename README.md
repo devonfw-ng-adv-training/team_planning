@@ -40,7 +40,7 @@ The list is closed :lock: - max 5 trainers / day
 | Bartek P      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | Pawełe K      |                  |:heavy_check_mark:|:heavy_check_mark:|                  |
 | Tomeczek Sz   |                  |                  |:heavy_check_mark:|:heavy_check_mark:|
-| Krystian J    |    :beginner:    |    :beginner:    |      :new:       |      :new:       |
+| Krystian J    |    :beginner:    |                  |                  |      :new:       |
 | Bartek B      |      :new:       |      :new:       |      :new:       |      :new:       |
 
 ### Angular Advanced 29-30.11.2018 - Wroclaw

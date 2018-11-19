@@ -63,9 +63,9 @@ The list is open :unlock:
 | Robert L      |    :beginner:    |    :beginner:    |
 | Sebastian W   |      :new:       |      :new:       |
 
-### Elemnts of the Rich Web Client School - :exclamation: NOT CONFIRMED :exclamation: - 09-11.01.2019 - Wroclaw
+### Elements of the Rich Web Client School - :exclamation: NOT CONFIRMED :exclamation: - 23-25.01.2019 - Wroclaw
 
-| TRAINER       |      09.01	     |      10.01       |      11.01	     |
+| TRAINER       |      23.01	     |      24.01       |      25.01	     |
 | --            |      :---:       |      :---:       |      :---:       |
 | Adam P        |                  |                  |                  |
 | Bartek B      |                  |                  |                  |

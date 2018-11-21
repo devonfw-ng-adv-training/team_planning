@@ -52,7 +52,7 @@ The list is open :unlock:
 | Pawełe K      |:heavy_check_mark:|:heavy_check_mark:|
 | Adam P        |:heavy_check_mark:|:heavy_check_mark:|
 | Piotr S       |:heavy_check_mark:|:heavy_check_mark:|
-| Tomasz W      |    :beginner:    |    :beginner:    |
+| Tomasz W      |      :new:       |      :new:       |
 | Robert L      |    :beginner:    |    :beginner:    |
 | Sebastian W   |      :new:       |      :new:       |
 

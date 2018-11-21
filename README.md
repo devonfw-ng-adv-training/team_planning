@@ -49,16 +49,9 @@ The list is open :unlock:
 
 | TRAINER       |      29.11	     |      30.11       |
 | --            |      :---:       |      :---:       |
-| Marek M       |                  |                  |
-| Bartek P      |       ?          |        ?         |
-| Rafał J       |                  |                  |
-| Rafał L       |                  |                  |
 | Pawełe K      |:heavy_check_mark:|:heavy_check_mark:|
 | Adam P        |:heavy_check_mark:|:heavy_check_mark:|
-| Krystian J    |       :x:        |       :x:        |
 | Piotr S       |:heavy_check_mark:|:heavy_check_mark:|
-| Bartek B      |                  |                  |
-| Marcin Ch     |       :x:        |       :x:        |
 | Tomasz W      |    :beginner:    |    :beginner:    |
 | Robert L      |    :beginner:    |    :beginner:    |
 | Sebastian W   |      :new:       |      :new:       |

@@ -38,7 +38,7 @@ The list is open :unlock:
 | TRAINER       |      29.11	     |      30.11       |
 | --            |      :---:       |      :---:       |
 | Pawełe K      |:heavy_check_mark:|:heavy_check_mark:|
-| Adam P        |:heavy_check_mark:|:heavy_check_mark:|
+| Adam P        |       :x:        |:heavy_check_mark:|
 | Piotr S       |:heavy_check_mark:|:heavy_check_mark:|
 | Tomasz W      |      :new:       |      :new:       |
 | Robert L      |    :beginner:    |    :beginner:    |

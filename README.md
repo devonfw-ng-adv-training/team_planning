@@ -32,18 +32,6 @@ Angular Advanced:
 
 ## Upcomming Trainings - chronological order
 
-### Rich Web Client 19-22.11.2018 - Wroclaw
-The list is closed :lock: - max 5 trainers / day
-
-| TRAINER       |      19.11	     |      20.11       |      21.11	     |      22.11       |
-| --            |      :---:       |      :---:       |      :---:       |      :---:       |
-| Bartek P      |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| Pawełe K      |                  |:heavy_check_mark:|:heavy_check_mark:|                  |
-| Tomeczek Sz   |                  |                  |:heavy_check_mark:|:heavy_check_mark:|
-| Krystian J    |    :beginner:    |                  |                  |      :new:       |
-| Bartek B      |                  |                  |                  |                  |
-| Augustyn B    |                  |                  |       :new:      |                  |
-
 ### Angular Advanced 29-30.11.2018 - Wroclaw
 The list is open :unlock:
 

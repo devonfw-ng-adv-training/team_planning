@@ -32,19 +32,8 @@ Angular Advanced:
 
 ## Upcomming Trainings - chronological order
 
-### Angular Advanced 29-30.11.2018 - Wroclaw
-The list is open :unlock:
-
-| TRAINER       |      29.11	     |      30.11       |
-| --            |      :---:       |      :---:       |
-| Pawełe K      |:heavy_check_mark:|:heavy_check_mark:|
-| Adam P        |       :x:        |:heavy_check_mark:|
-| Piotr S       |:heavy_check_mark:|:heavy_check_mark:|
-| Tomasz W      |      :new:       |      :new:       |
-| Robert L      |    :beginner:    |    :beginner:    |
-| Sebastian W   |      :new:       |      :new:       |
-
 ### Elements of the Rich Web Client School - :exclamation: NOT CONFIRMED :exclamation: - 23-25.01.2019 - Wroclaw
+The list is open :unlock:
 
 | TRAINER       |      23.01	     |      24.01       |      25.01	     |
 | --            |      :---:       |      :---:       |      :---:       |

@@ -8,8 +8,6 @@ HowTo - for the concrete Schools and their days mark the following:
 
 :heavy_check_mark: - OK for me
 
-:beginner: - OK for me, first time
-
 :new: - when You are the first time on this school and want to be a lecturer next time
 
 ## Communication

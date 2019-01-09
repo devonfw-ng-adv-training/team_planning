@@ -39,7 +39,6 @@ The list is open :unlock:
 | --            |      :---:       |      :---:       |      :---:       |
 | Adam P        |                  |                  |                  |
 | Bartek B      |                  |                  |                  |
-| Bartek P      |                  |                  |                  |
 | Darek P       |                  |                  |                  |
 | Krystian J    |                  |                  |                  |
 | Marcin Ch     |                  |                  |                  |
@@ -48,9 +47,6 @@ The list is open :unlock:
 | Michal J      |                  |                  |                  |
 | Mietek S      |                  |                  |                  |
 | Mikolaj R     |                  |                  |                  |
-| Pawełe K      |                  |                  |                  |
-| Piotr S       |                  |                  |                  |
-| Rafał J       |                  |                  |                  |
 | Rafał L       |                  |                  |                  |
 | Robert L      |                  |                  |                  |
 | Sebastian W   |                  |                  |                  |

@@ -32,7 +32,7 @@ Angular Advanced:
 
 ## Upcomming Trainings - chronological order
 
-### Elements of the Rich Web Client School - :exclamation: NOT CONFIRMED :exclamation: - 23-25.01.2019 - Wroclaw
+### Elements of the Rich Web Client School - 23-25.01.2019 - Wroclaw
 The list is open :unlock:
 
 | TRAINER       |      23.01	     |      24.01       |      25.01	     |

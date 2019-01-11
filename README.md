@@ -33,25 +33,25 @@ Angular Advanced:
 ### Elements of the Rich Web Client School - 23-25.01.2019 - Wroclaw
 The list is open :unlock:
 
-| TRAINER     |      23.01	     |      24.01       |      25.01	     |
-| --          |      :---:       |      :---:       |      :---:       |
-| Augustyn B  |                  |                  |                  |
-| Bartosz B   |                  |                  |                  |
-| Pawel Ch    |                  |                  |                  |
-| Marcin Ch   |                  |                  |                  |
-| Krystian J  |                  |                  |                  |
-| Michal J    |                  |                  |                  |
-| Adam K      |                  |                  |                  |
-| Mateusz K   |                  |                  |                  |
-| Ralph L     |                  |                  |                  |
-| Robert L    |                  |                  |                  |
-| Marek M     |                  |                  |                  |
-| Dariusz P   |                  |                  |                  |
-| Adam P      |       :x:        |:heavy_check_mark:|        :x:       |
-| Mikolaj R   |                  |                  |                  |
-| Rostyslav S |                  |                  |                  |
-| Marcin S    |                  |                  |                  |
-| Mieczyslaw S|                  |                  |                  |
-| Tomasz Sz   |                  |                  |                  |
-| Andrzej T   |                  |                  |                  |
-| Tomasz W    |                  |                  |                  |
+|No.| TRAINER     |      23.01	     |      24.01       |      25.01	     |
+|   | --          |      :---:       |      :---:       |      :---:       |
+| 1.| Augustyn B  |                  |                  |                  |
+| 2.| Bartosz B   |                  |                  |                  |
+| 3.| Pawel Ch    |                  |                  |                  |
+| 4.| Marcin Ch   |                  |                  |                  |
+| 5.| Krystian J  |                  |                  |                  |
+| 6.| Michal J    |                  |                  |                  |
+| 7.| Adam K      |                  |                  |                  |
+| 8.| Mateusz K   |                  |                  |                  |
+| 9.| Ralph L     |                  |                  |                  |
+|10.| Robert L    |                  |                  |                  |
+|11.| Marek M     |                  |                  |                  |
+|12.| Dariusz P   |                  |                  |                  |
+|13.| Adam P      |       :x:        |:heavy_check_mark:|        :x:       |
+|14.| Mikolaj R   |                  |                  |                  |
+|15.| Rostyslav S |                  |                  |                  |
+|16.| Marcin S    |                  |                  |                  |
+|17.| Mieczyslaw S|                  |                  |                  |
+|18.| Tomasz Sz   |                  |                  |                  |
+|19.| Andrzej T   |                  |                  |                  |
+|20.| Tomasz W    |                  |                  |                  |

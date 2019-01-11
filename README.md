@@ -32,8 +32,10 @@ Angular Advanced:
 
 ### Elements of the Rich Web Client School - 23-25.01.2019 - Wroclaw
 The list is open :unlock:
+
+
 | No  | TRAINER      |      23.01	      |      24.01       |      25.01	      |
-|:---:|    :---:     |      :---:       |      :---:       |      :---:       |
+|---:| :----------- |      :---:       |      :---:       |      :---:       |
 |  1. | Augustyn B   |                  |                  |                  |
 |  2. | Bartosz B    |                  |                  |                  |
 |  3. | Pawel Ch     |                  |                  |                  |
@@ -54,4 +56,3 @@ The list is open :unlock:
 | 18. | Tomasz Sz    |                  |                  |                  |
 | 19. | Andrzej T    |                  |                  |                  |
 | 20. | Tomasz W     |                  |                  |                  |
-

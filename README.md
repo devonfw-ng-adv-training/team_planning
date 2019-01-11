@@ -53,6 +53,6 @@ The list is open :unlock:
 | 15. | Rostyslav S  |                  |                  |                  |
 | 16. | Marcin S     |                  |                  |                  |
 | 17. | Mieczyslaw S |                  |                  |                  |
-| 18. | Tomasz Sz    |                  |                  |                  |
+| 18. | Tomasz Sz    |       :x:        |:heavy_check_mark:|:heavy_check_mark:|
 | 19. | Andrzej T    |                  |                  |                  |
 | 20. | Tomasz W     |                  |                  |                  |

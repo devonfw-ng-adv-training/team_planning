@@ -40,7 +40,7 @@ The list is open :unlock:
 |  2. | Bartosz B    |                  |                  |                  |
 |  3. | Pawel Ch     |                  |                  |                  |
 |  4. | Marcin Ch    |                  |                  |                  |
-|  5. | Krystian J   |                  |                  |                  |
+|  5. | Krystian J   |:heavy_check_mark:|     :x:          |         :x:      |
 |  6. | Michal J     |                  |                  |                  |
 |  7. | Adam K       |                  |                  |                  |
 |  8. | Mateusz K    |                  |                  |                  |

@@ -55,4 +55,4 @@ The list is open :unlock:
 | 17. | Mieczyslaw S |                  |                  |                  |
 | 18. | Tomasz Sz    |       :x:        |:heavy_check_mark:|:heavy_check_mark:|
 | 19. | Andrzej T    |                  |                  |                  |
-| 20. | Tomasz W     |                  |                  |                  |
+| 20. | Tomasz W     |       :x:        |       :x:        |        :x:       |

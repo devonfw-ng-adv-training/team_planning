@@ -39,7 +39,7 @@ The list is open :unlock:
 |  1. | Augustyn B   |                  |                  |                  |
 |  2. | Bartosz B    |                  |                  |                  |
 |  3. | Pawel Ch     |                  |                  |                  |
-|  4. | Marcin Ch    |                  |                  |                  |
+|  4. | Marcin Ch    |       :x:        |     :x:          |         :x:      |
 |  5. | Krystian J   |:heavy_check_mark:|     :x:          |         :x:      |
 |  6. | Michal J     |                  |                  |                  |
 |  7. | Adam K       |                  |                  |                  |

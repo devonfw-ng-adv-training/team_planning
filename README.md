@@ -35,24 +35,23 @@ The list is open :unlock:
 
 
 | No  | TRAINER      |      23.01	      |      24.01       |      25.01	      |
-|---:| :----------- |      :---:       |      :---:       |      :---:       |
+| ---:| :----------- |      :---:       |      :---:       |      :---:       |
 |  1. | Augustyn B   |                  |                  |                  |
-|  2. | Bartosz B    |                  |                  |                  |
-|  3. | Pawel Ch     |                  |                  |                  |
-|  4. | Marcin Ch    |       :x:        |     :x:          |         :x:      |
-|  5. | Krystian J   |:heavy_check_mark:|     :x:          |         :x:      |
-|  6. | Michal J     |                  |                  |                  |
-|  7. | Adam K       |                  |                  |                  |
-|  8. | Mateusz K    |                  |                  |                  |
-|  9. | Ralph L      |                  |                  |                  |
-| 10. | Robert L     |                  |                  |                  |
-| 11. | Marek M      |                  |                  |                  |
-| 12. | Dariusz P    |                  |                  |                  |
-| 13. | Adam P       |       :x:        |:heavy_check_mark:|        :x:       |
-| 14. | Mikolaj R    |                  |                  |                  |
-| 15. | Rostyslav S  |                  |                  |                  |
-| 16. | Marcin S     |                  |                  |                  |
-| 17. | Mieczyslaw S |                  |                  |                  |
-| 18. | Tomasz Sz    |       :x:        |:heavy_check_mark:|:heavy_check_mark:|
-| 19. | Andrzej T    |                  |                  |                  |
-| 20. | Tomasz W     |       :x:        |       :x:        |        :x:       |
+|  2. | Pawel Ch     |                  |                  |                  |
+|  3. | Marcin Ch    |       :x:        |     :x:          |         :x:      |
+|  4. | Krystian J   |:heavy_check_mark:|     :x:          |         :x:      |
+|  5. | Michal J     |                  |                  |                  |
+|  6. | Adam K       |                  |                  |                  |
+|  7. | Mateusz K    |                  |                  |                  |
+|  8. | Ralph L      |                  |                  |                  |
+|  9. | Robert L     |                  |                  |                  |
+| 10. | Marek M      |                  |                  |                  |
+| 11. | Dariusz P    |                  |                  |                  |
+| 12. | Adam P       |       :x:        |:heavy_check_mark:|        :x:       |
+| 13. | Mikolaj R    |                  |                  |                  |
+| 14. | Rostyslav S  |                  |                  |                  |
+| 15. | Marcin S     |                  |                  |                  |
+| 16. | Mieczyslaw S |                  |                  |                  |
+| 17. | Tomasz Sz    |       :x:        |:heavy_check_mark:|:heavy_check_mark:|
+| 18. | Andrzej T    |                  |                  |                  |
+| 19. | Tomasz W     |       :x:        |       :x:        |        :x:       |

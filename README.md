@@ -42,7 +42,7 @@ The list is open :unlock:
 |  4. | Krystian J   |:heavy_check_mark:|     :x:          |         :x:      |
 |  5. | Michal J     |                  |                  |                  |
 |  6. | Adam K       |                  |                  |                  |
-|  7. | Mateusz K    |                  |                  |                  |
+|  7. | Mateusz K    |       :x:        |       :x:        |       :x:        |
 |  8. | Ralph L      |                  |                  |                  |
 |  9. | Robert L     |                  |                  |                  |
 | 10. | Marek M      |                  |                  |                  |

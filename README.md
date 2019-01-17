@@ -48,7 +48,7 @@ The list is open :unlock:
 |  7. | Mateusz K    |        :x:         |        :x:         |        :x:         |
 |  8. | Ralph L      |                    |                    |                    |
 |  9. | Robert L     |                    |                    |                    |
-| 10. | Marek M      |                    |                    |                    |
+| 10. | Marek M      | :heavy_check_mark: |  :heavy_check_mark:| :heavy_check_mark: |
 | 11. | Dariusz P    |                    |                    |                    |
 | 12. | Adam P       |        :x:         | :heavy_check_mark: |        :x:         |
 | 13. | Mikolaj R    |                    |                    |                    |

@@ -53,7 +53,7 @@ The list is open :unlock:
 | 12. | Adam P       |        :x:         | :heavy_check_mark: |        :x:         |
 | 13. | Mikolaj R    |                    |                    |                    |
 | 14. | Rostyslav S  |                    |                    |                    |
-| 15. | Marcin S     |                    |                    |                    |
+| 15. | Marcin S     |        :x:         |         :x:        | :heavy_check_mark: |
 | 16. | Mieczyslaw S |                    |                    |                    |
 | 17. | Tomasz Sz    |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
 | 18. | Andrzej T    |                    |                    |                    |

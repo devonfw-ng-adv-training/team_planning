@@ -46,7 +46,7 @@ The list is open :unlock:
 |  5. | Michal J     |                    |                    |                    |
 |  6. | Adam K       |                    |                    |                    |
 |  7. | Mateusz K    |        :x:         |        :x:         |        :x:         |
-|  8. | Ralph L      |                    |                    |                    |
+|  8. | Ralph L      |        :x:         |        :x:         |        :x:         |
 |  9. | Robert L     | :heavy_check_mark:(dopiero od ok 12) |        :x:         | :heavy_check_mark: |
 | 10. | Marek M      | :heavy_check_mark: |  :heavy_check_mark:| :heavy_check_mark: |
 | 11. | Dariusz P    |                    |                    |                    |

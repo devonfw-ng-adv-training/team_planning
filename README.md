@@ -47,13 +47,13 @@ The list is open :unlock:
 |  6. | Adam K       |                    |                    |                    |
 |  7. | Mateusz K    |        :x:         |        :x:         |        :x:         |
 |  8. | Ralph L      |        :x:         |        :x:         |        :x:         |
-|  9. | Robert L     | :heavy_check_mark:(dopiero od ok 12) |        :x:         | :heavy_check_mark: |
+|  9. | Robert L     | :new:(dopiero od ok 12) |   :x:         |       :new:        |
 | 10. | Marek M      | :heavy_check_mark: |  :heavy_check_mark:| :heavy_check_mark: |
 | 11. | Dariusz P    |                    |                    |                    |
 | 12. | Adam P       |        :x:         | :heavy_check_mark: |        :x:         |
 | 13. | Mikolaj R    |                    |                    |                    |
 | 14. | Rostyslav S  |                    |                    |                    |
-| 15. | Marcin S     |        :x:         |         :x:        | :heavy_check_mark: |
+| 15. | Marcin S     |        :x:         |         :x:        |       :new:        |
 | 16. | Mieczyslaw S |                    |                    |                    |
 | 17. | Tomasz Sz    |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
 | 18. | Andrzej T    |                    |                    |                    |

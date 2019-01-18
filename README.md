@@ -58,3 +58,4 @@ The list is open :unlock:
 | 17. | Tomasz Sz    |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
 | 18. | Andrzej T    |                    |                    |                    |
 | 19. | Tomasz W     |        :x:         |        :x:         |        :x:         |
+| 20. | Patrycja S   |        :x:         |        :x:         |        :x:         |

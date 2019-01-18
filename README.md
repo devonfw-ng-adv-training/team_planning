@@ -39,7 +39,7 @@ The list is open :unlock:
 
 |  No | TRAINER      |       23.01        |       24.01        |       25.01        |
 | --: | :----------- | :----------------: | :----------------: | :----------------: |
-|  1. | Augustyn B   |                    |                    |                    |
+|  1. | Augustyn B   |        :x:         |        :x:         |        :x:         |
 |  2. | Pawel Ch     |                    |                    |                    |
 |  3. | Marcin Ch    |        :x:         |        :x:         |        :x:         |
 |  4. | Krystian J   | :heavy_check_mark: |        :x:         |        :x:         |

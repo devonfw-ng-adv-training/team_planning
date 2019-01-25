@@ -157,7 +157,7 @@ The list is open :unlock:
 | 15. | Marcin S     |                    |                    |                    |                    |                    |
 | 16. | Mieczyslaw S |                    |                    |                    |                    |                    |
 | 17. | Tomasz Sz    |                    |                    |                    |                    |                    |
-| 18. | Andrzej T    |                    |                    |                    |                    |                    |
+| 18. | Andrzej T    |                    |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 19. | Tomasz W     |                    |                    |                    |                    |                    |
 | 20. | Patrycja S   |                    |                    |                    |                    |                    |
 

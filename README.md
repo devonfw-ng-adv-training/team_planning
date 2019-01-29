@@ -14,6 +14,10 @@ HowTo - for the concrete Schools and their days mark the following:
 
 Mailing List: DL PL JavaScriptCommunity
 
+## Learning path
+
+![Learning Path](/path.PNG)
+
 ## Repositories pre 2019:
 
 Rich Web Client:

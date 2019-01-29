@@ -16,7 +16,7 @@ Mailing List: DL PL JavaScriptCommunity
 
 ## Learning path
 
-![Learning Path](/path.PNG)
+![Learning Path](/LP.PNG)
 
 ## Repositories pre 2019:
 

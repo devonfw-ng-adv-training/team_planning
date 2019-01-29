@@ -14,38 +14,42 @@ HowTo - for the concrete Schools and their days mark the following:
 
 Mailing List: DL PL JavaScriptCommunity
 
-## Repositories:
-
-Introduction do JS:
-
-- Repo: https://github.com/devonfw/js-training
-- Slides: https://www.devonfw.com/js-training
+## Repositories pre 2019:
 
 Rich Web Client:
 
 - Repo: https://github.com/devonfw/ng-training
 - Slides: https://www.devonfw.com/ng-training
 
+## Repositories: 
+
+Introduction do JS:
+
+- Repo: https://github.com/devonfw/js-training
+- Slides: https://www.devonfw.com/js-training
+
 Angular Advanced:
 
 - Repo: https://github.com/devonfw-ng-adv-training/devonfw-ng-adv-training.github.io
 - Slides: https://devonfw-ng-adv-training.github.io/
 
+Modern Web Development (2D) ...:
+
+- Repo: TODO
+- Slides: TODO
+
+... With Angular (3D):
+
+- Repo: TODO
+- Slides: TODO
+
+... With React (3D):
+
+- Repo: TODO
+- Slides: TODO
+
+
 ## Upcomming Trainings - chronological order
-
-### Elements of the Rich Web Client School - 23-25.01.2019 - Wroclaw
-
-The list is open :lock:
-
-|  No | TRAINER      |       23.01        |       24.01        |       25.01        |
-| --: | :----------- | :----------------: | :----------------: | :----------------: |
-|  4. | Krystian J   | :heavy_check_mark: |        :x:         |        :x:         |
-|  5. | Michal J     |                    |       :new:        |                    |
-|  9. | Robert L     | :new:(dopiero od ok 12) |   :x:         |       :new:        |
-| 10. | Marek M      | :heavy_check_mark: |  :heavy_check_mark:| :heavy_check_mark: |
-| 12. | Adam P       |        :x:         | :heavy_check_mark: |        :x:         |
-| 15. | Marcin S     |        :x:         |         :x:        |       :new:        |
-| 17. | Tomasz Sz    |        :x:         | :heavy_check_mark: | :heavy_check_mark: |
 
 ### Modern Web Dev (2D)  + With React (3D) -  08-12.04.2019 - Wroclaw
 

@@ -37,10 +37,7 @@ Angular Advanced:
 - Repo: https://github.com/devonfw-ng-adv-training/devonfw-ng-adv-training.github.io
 - Slides: https://devonfw-ng-adv-training.github.io/
 
-NodeJS:
-
-- Repo: TODO
-- Slides: TODO
+NodeJS: exclusive
 
 Modern Web Development (2D) ...:
 

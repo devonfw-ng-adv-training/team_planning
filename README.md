@@ -61,28 +61,28 @@ Modern Web Development (2D) ...:
 
 The list is open :unlock:
 
-|  No | TRAINER      |    08.04 (MWD1)    |   09.04 (MWD2)     |    10.04 (React1)  |   10.04 (React2)   |   10.04 (React3)   |
-| --: | :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
-|  1. | Augustyn B   |                    |                    |                    |                    |                    |
-|  2. | Pawel Ch     |                    |                    |                    |                    |                    |
-|  3. | Marcin Ch    |                    |                    |                    |                    |                    |
-|  4. | Krystian J   |                    |                    |                    |                    |                    |
-|  5. | Michal J     |                    |                    |                    |                    |                    |
-|  6. | Adam K       |                    |                    |                    |                    |                    |
-|  7. | Mateusz K    |                    |                    |                    |                    |                    |
-|  8. | Ralph L      |                    |                    |                    |                    |                    |
-|  9. | Robert L     |                    |                    |                    |                    |                    |
-| 10. | Marek M      |                    |                    |                    |                    |                    |
-| 11. | Dariusz P    |                    |                    |                    |                    |                    |
-| 12. | Adam P       |                    |                    |                    |                    |                    |
-| 13. | Mikolaj R    |                    |                    |                    |                    |                    |
-| 14. | Rostyslav S  |                    |                    |                    |                    |                    |
-| 15. | Marcin S     |                    |                    |                    |                    |                    |
-| 16. | Mieczyslaw S |                    |                    |                    |                    |                    |
-| 17. | Tomasz Sz    |                    |                    |                    |                    |                    |
-| 18. | Andrzej T    |                    |                    |                    |                    |                    |
-| 19. | Tomasz W     |                    |                    |                    |                    |                    |
-| 20. | Patrycja S   |                    |                    |                    |                    |                    |
+| TRAINER      |    08.04 (MWD1)    |   09.04 (MWD2)     |    10.04 (React1)  |   10.04 (React2)   |   10.04 (React3)   |
+| :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |                    |                    |                    |
+| Pawel Ch     |                    |                    |                    |                    |                    |
+| Marcin Ch    |                    |                    |                    |                    |                    |
+| Krystian J   |                    |                    |                    |                    |                    |
+| Michal J     |                    |                    |                    |                    |                    |
+| Adam K       |                    |                    |                    |                    |                    |
+| Mateusz K    |                    |                    |                    |                    |                    |
+| Ralph L      |                    |                    |                    |                    |                    |
+| Robert L     |                    |                    |                    |                    |                    |
+| Marek M      |                    |                    |                    |                    |                    |
+| Dariusz P    |                    |                    |                    |                    |                    |
+| Adam P       |                    |                    |                    |                    |                    |
+| Mikolaj R    |                    |                    |                    |                    |                    |
+| Rostyslav S  |                    |                    |                    |                    |                    |
+| Marcin S     |                    |                    |                    |                    |                    |
+| Mieczyslaw S |                    |                    |                    |                    |                    |
+| Tomasz Sz    |                    |                    |                    |                    |                    |
+| Andrzej T    |                    |                    |                    |                    |                    |
+| Tomasz W     |                    |                    |                    |                    |                    |
+| Patrycja S   |                    |                    |                    |                    |                    |
 
 
 
@@ -90,28 +90,28 @@ The list is open :unlock:
 
 The list is open :unlock:
 
-|  No | TRAINER      |       06.05        |       07.05        |
-| --: | :----------- | :----------------: | :----------------: |
-|  1. | Augustyn B   |                    |                    |
-|  2. | Pawel Ch     |                    |                    |
-|  3. | Marcin Ch    |                    |                    |
-|  4. | Krystian J   |                    |                    |
-|  5. | Michal J     |                    |                    |
-|  6. | Adam K       |                    |                    |
-|  7. | Mateusz K    |                    |                    |
-|  8. | Ralph L      |                    |                    |
-|  9. | Robert L     |                    |                    |
-| 10. | Marek M      |                    |                    |
-| 11. | Dariusz P    |                    |                    |
-| 12. | Adam P       |                    |                    |
-| 13. | Mikolaj R    |                    |                    |
-| 14. | Rostyslav S  |                    |                    |
-| 15. | Marcin S     |                    |                    |
-| 16. | Mieczyslaw S |                    |                    |
-| 17. | Tomasz Sz    |                    |                    |
-| 18. | Andrzej T    |                    |                    |
-| 19. | Tomasz W     |                    |                    |
-| 20. | Patrycja S   |                    |                    |
+| TRAINER      |       06.05        |       07.05        |
+| :----------- | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |
+| Pawel Ch     |                    |                    |
+| Marcin Ch    |                    |                    |
+| Krystian J   |                    |                    |
+| Michal J     |                    |                    |
+| Adam K       |                    |                    |
+| Mateusz K    |                    |                    |
+| Ralph L      |                    |                    |
+| Robert L     |                    |                    |
+| Marek M      |                    |                    |
+| Dariusz P    |                    |                    |
+| Adam P       |                    |                    |
+| Mikolaj R    |                    |                    |
+| Rostyslav S  |                    |                    |
+| Marcin S     |                    |                    |
+| Mieczyslaw S |                    |                    |
+| Tomasz Sz    |                    |                    |
+| Andrzej T    |                    |                    |
+| Tomasz W     |                    |                    |
+| Patrycja S   |                    |                    |
 
 
 
@@ -119,28 +119,28 @@ The list is open :unlock:
 
 The list is open :unlock:
 
-|  No | TRAINER      |       23.05        |       24.05        |
-| --: | :----------- | :----------------: | :----------------: |
-|  1. | Augustyn B   |                    |                    |
-|  2. | Pawel Ch     |                    |                    |
-|  3. | Marcin Ch    |                    |                    |
-|  4. | Krystian J   |                    |                    |
-|  5. | Michal J     |                    |                    |
-|  6. | Adam K       |                    |                    |
-|  7. | Mateusz K    |                    |                    |
-|  8. | Ralph L      |                    |                    |
-|  9. | Robert L     |                    |                    |
-| 10. | Marek M      |                    |                    |
-| 11. | Dariusz P    |                    |                    |
-| 12. | Adam P       |                    |                    |
-| 13. | Mikolaj R    |                    |                    |
-| 14. | Rostyslav S  |                    |                    |
-| 15. | Marcin S     |                    |                    |
-| 16. | Mieczyslaw S |                    |                    |
-| 17. | Tomasz Sz    |                    |                    |
-| 18. | Andrzej T    |                    |                    |
-| 19. | Tomasz W     |                    |                    |
-| 20. | Patrycja S   |                    |                    |
+| TRAINER      |       23.05        |       24.05        |
+| :----------- | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |
+| Pawel Ch     |                    |                    |
+| Marcin Ch    |                    |                    |
+| Krystian J   |                    |                    |
+| Michal J     |                    |                    |
+| Adam K       |                    |                    |
+| Mateusz K    |                    |                    |
+| Ralph L      |                    |                    |
+| Robert L     |                    |                    |
+| Marek M      |                    |                    |
+| Dariusz P    |                    |                    |
+| Adam P       |                    |                    |
+| Mikolaj R    |                    |                    |
+| Rostyslav S  |                    |                    |
+| Marcin S     |                    |                    |
+| Mieczyslaw S |                    |                    |
+| Tomasz Sz    |                    |                    |
+| Andrzej T    |                    |                    |
+| Tomasz W     |                    |                    |
+| Patrycja S   |                    |                    |
 
 
 
@@ -148,28 +148,28 @@ The list is open :unlock:
 
 The list is open :unlock:
 
-|  No | TRAINER      |       03.06 (MWD1) |       04.06 (MWD2) |   05.06 (Angular1) |  06.06 (Angular2)  |  07.06 (Angular3)  |
-| --: | :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
-|  1. | Augustyn B   |                    |                    |                    |                    |                    |
-|  2. | Pawel Ch     |                    |                    |                    |                    |                    |
-|  3. | Marcin Ch    |                    |                    |                    |                    |                    |
-|  4. | Krystian J   |                    |                    |                    |                    |                    |
-|  5. | Michal J     |                    |                    |                    |                    |                    |
-|  6. | Adam K       |                    |                    |                    |                    |                    |
-|  7. | Mateusz K    |                    |                    |                    |                    |                    |
-|  8. | Ralph L      |                    |                    |                    |                    |                    |
-|  9. | Robert L     |                    |                    |                    |                    |                    |
-| 10. | Marek M      |                    |                    |                    |                    |                    |
-| 11. | Dariusz P    |                    |                    |                    |                    |                    |
-| 12. | Adam P       |                    |                    |                    |                    |                    |
-| 13. | Mikolaj R    |                    |                    |                    |                    |                    |
-| 14. | Rostyslav S  |                    |                    |                    |                    |                    |
-| 15. | Marcin S     |                    |                    |                    |                    |                    |
-| 16. | Mieczyslaw S |                    |                    |                    |                    |                    |
-| 17. | Tomasz Sz    |                    |                    |                    |                    |                    |
-| 18. | Andrzej T    |                    |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 19. | Tomasz W     |                    |                    |                    |                    |                    |
-| 20. | Patrycja S   |                    |                    |                    |                    |                    |
+| TRAINER      |       03.06 (MWD1) |       04.06 (MWD2) |   05.06 (Angular1) |  06.06 (Angular2)  |  07.06 (Angular3)  |
+| :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |                    |                    |                    |
+| Pawel Ch     |                    |                    |                    |                    |                    |
+| Marcin Ch    |                    |                    |                    |                    |                    |
+| Krystian J   |                    |                    |                    |                    |                    |
+| Michal J     |                    |                    |                    |                    |                    |
+| Adam K       |                    |                    |                    |                    |                    |
+| Mateusz K    |                    |                    |                    |                    |                    |
+| Ralph L      |                    |                    |                    |                    |                    |
+| Robert L     |                    |                    |                    |                    |                    |
+| Marek M      |                    |                    |                    |                    |                    |
+| Dariusz P    |                    |                    |                    |                    |                    |
+| Adam P       |                    |                    |                    |                    |                    |
+| Mikolaj R    |                    |                    |                    |                    |                    |
+| Rostyslav S  |                    |                    |                    |                    |                    |
+| Marcin S     |                    |                    |                    |                    |                    |
+| Mieczyslaw S |                    |                    |                    |                    |                    |
+| Tomasz Sz    |                    |                    |                    |                    |                    |
+| Andrzej T    |                    |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Tomasz W     |                    |                    |                    |                    |                    |
+| Patrycja S   |                    |                    |                    |                    |                    |
 
 
 

@@ -51,8 +51,8 @@ Modern Web Development (2D) ...:
 
 ... With React (3D):
 
-- Repo: TODO
-- Slides: TODO
+- Repo: https://github.com/devonfw-react-training/foundations
+- Slides: https://devonfw-react-training.github.io/
 
 
 ## Upcomming Trainings - chronological order

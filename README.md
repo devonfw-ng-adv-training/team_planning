@@ -64,7 +64,7 @@ The list is open :unlock:
 | TRAINER      |    13.02 (React1)  |   14.02 (React2)   |   15.02 (React3)   |
 | :----------- | :----------------: | :----------------: | :----------------: |
 | Augustyn B   |                    |                    |                    |
-| Pawel Ch     |                    |                    |                    |
+| Pawel Ch     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marcin Ch    |                    |                    |                    |
 | Krystian J   |                    |                    |                    |
 | Michal J     |                    |                    |                    |
@@ -72,7 +72,7 @@ The list is open :unlock:
 | Mateusz K    |                    |                    |                    |
 | Ralph L      |                    |                    |                    |
 | Robert L     |                    |                    |                    |
-| Marek M      |                    |                    |                    |
+| Marek M      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Dariusz P    |                    |                    |                    |
 | Adam P       |                    |                    |                    |
 | Mikolaj R    |                    |                    |                    |

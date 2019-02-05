@@ -74,7 +74,7 @@ The list is open :unlock:
 | Robert L     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marek M      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Dariusz P    |                    |                    |                    |
-| Adam P       |                    |                    |                    |
+| Adam P       |       :x:          |        :x:         |       :x:          |
 | Mikolaj R    |                    |                    |                    |
 | Rostyslav S  |                    |                    |                    |
 | Marcin S     |                    |                    |                    |

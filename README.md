@@ -83,6 +83,7 @@ The list is open :unlock:
 | Andrzej T    |                    |                    |                    |
 | Tomasz W     |                    |                    |                    |
 | Patrycja S   |                    |                    |                    |
+| Adam K       |      :new:         |      :new:         |      :new:         |
 
 
 ### Modern Web Dev (2D)  + With React (3D) -  08-12.04.2019 - Wroclaw

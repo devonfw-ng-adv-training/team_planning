@@ -70,7 +70,7 @@ The list is open :unlock:
 | Michal J     |                    |                    |                    |
 | Adam K       |      :new:         |      :new:         |      :new:         |
 | Mateusz K    |                    |                    |                    |
-| Ralph L      |                    |                    |                    |
+| Ralph L      | :x:                | :x:                | :x:                |
 | Robert L     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marek M      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Dariusz P    |                    |                    |                    |
@@ -89,7 +89,7 @@ The list is open :unlock:
 
 The list is open :unlock:
 
-| TRAINER      |    08.04 (MWD1)    |   09.04 (MWD2)     |    10.04 (React1)  |   10.04 (React2)   |   10.04 (React3)   |
+| TRAINER      |    08.04 (MWD1)    |   09.04 (MWD2)     |    10.04 (React1)  |   11.04 (React2)   |   12.04 (React3)   |
 | :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
 | Augustyn B   |                    |                    |                    |                    |                    |
 | Pawel Ch     |                    |                    |                    |                    |                    |
@@ -98,7 +98,7 @@ The list is open :unlock:
 | Michal J     |                    |                    |                    |                    |                    |
 | Adam K       |                    |                    |                    |                    |                    |
 | Mateusz K    |                    |                    |                    |                    |                    |
-| Ralph L      |                    |                    |                    |                    |                    |
+| Ralph L      | :new:              | :new:              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Robert L     |                    |                    |                    |                    |                    |
 | Marek M      |                    |                    |                    |                    |                    |
 | Dariusz P    |                    |                    |                    |                    |                    |
@@ -127,7 +127,7 @@ The list is open :unlock:
 | Michal J     |                    |                    |
 | Adam K       |                    |                    |
 | Mateusz K    |                    |                    |
-| Ralph L      |                    |                    |
+| Ralph L      | :new:              | :new:              |
 | Robert L     |                    |                    |
 | Marek M      |                    |                    |
 | Dariusz P    |                    |                    |

@@ -59,30 +59,15 @@ Modern Web Development (2D) ...:
 
 ### React Foundations -  13-15.02.2019 - :exclamation: Poznan :exclamation:
 
-The list is open :unlock:
+The list is open :lock:
 
 | TRAINER      |    13.02 (React1)  |   14.02 (React2)   |   15.02 (React3)   |
 | :----------- | :----------------: | :----------------: | :----------------: |
-| Augustyn B   |                    |                    |                    |
 | Pawel Ch     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Marcin Ch    |                    |                    |                    |
 | Krystian J   |      :x:           |      :new:         |      :new:         |
-| Michal J     |                    |                    |                    |
 | Adam K       |      :new:         |      :new:         |      :new:         |
-| Mateusz K    |                    |                    |                    |
-| Ralph L      | :x:                | :x:                | :x:                |
 | Robert L     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marek M      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Dariusz P    |                    |                    |                    |
-| Adam P       |       :x:          |        :x:         |       :x:          |
-| Mikolaj R    |                    |                    |                    |
-| Rostyslav S  |                    |                    |                    |
-| Marcin S     |                    |                    |                    |
-| Mieczyslaw S |                    |                    |                    |
-| Tomasz Sz    |                    |                    |                    |
-| Andrzej T    |                    |                    |                    |
-| Tomasz W     |                    |                    |                    |
-| Patrycja S   |                    |                    |                    |
 
 
 ### Modern Web Dev (2D)  + With React (3D) -  08-12.04.2019 - Wroclaw

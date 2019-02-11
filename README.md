@@ -44,12 +44,12 @@ Modern Web Development (2D) ...:
 - Repo: TODO
 - Slides: TODO
 
-... With Angular (3D):
+... With Angular Foundations (3D):
 
 - Repo: TODO
 - Slides: TODO
 
-... With React (3D):
+... With React Foundations (3D):
 
 - Repo: https://github.com/devonfw-react-training/foundations
 - Slides: https://devonfw-react-training.github.io/

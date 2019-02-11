@@ -59,7 +59,7 @@ Modern Web Development (2D) ...:
 
 ### React Foundations -  13-15.02.2019 - :exclamation: Poznan :exclamation:
 
-The list is open :lock:
+The list is locked :lock:
 
 | TRAINER      |    13.02 (React1)  |   14.02 (React2)   |   15.02 (React3)   |
 | :----------- | :----------------: | :----------------: | :----------------: |

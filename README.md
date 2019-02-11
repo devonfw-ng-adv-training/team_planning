@@ -64,7 +64,6 @@ The list is open :lock:
 | TRAINER      |    13.02 (React1)  |   14.02 (React2)   |   15.02 (React3)   |
 | :----------- | :----------------: | :----------------: | :----------------: |
 | Pawel Ch     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Krystian J   |      :x:           |      :new:         |      :new:         |
 | Adam K       |      :new:         |      :new:         |      :new:         |
 | Robert L     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marek M      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |

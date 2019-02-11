@@ -173,7 +173,7 @@ The list is open :unlock:
 | Robert L     |                    |                    |                    |                    |                    |
 | Marek M      |                    |                    |                    |                    |                    |
 | Dariusz P    |                    |                    |                    |                    |                    |
-| Adam P       |                    |                    |                    |                    |                    |
+| Adam P       |                    |                    |                    | :heavy_check_mark: | :heavy_check_mark: |
 | Mikolaj R    |                    |                    |                    |                    |                    |
 | Rostyslav S  |                    |                    |                    |                    |                    |
 | Marcin S     |                    |                    |                    |                    |                    |

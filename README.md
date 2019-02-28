@@ -57,18 +57,6 @@ Modern Web Development (2D) ...:
 
 ## Upcomming Trainings - chronological order
 
-### React Foundations -  13-15.02.2019 - :exclamation: Poznan :exclamation:
-
-The list is locked :lock:
-
-| TRAINER      |    13.02 (React1)  |   14.02 (React2)   |   15.02 (React3)   |
-| :----------- | :----------------: | :----------------: | :----------------: |
-| Pawel Ch     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Adam K       |      :new:         |      :new:         |      :new:         |
-| Robert L     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Marek M      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-
-
 ### Modern Web Dev (2D)  + With React (3D) -  08-12.04.2019 - Wroclaw
 
 The list is open :unlock:

@@ -57,35 +57,6 @@ Modern Web Development (2D) ...:
 
 ## Upcomming Trainings - chronological order
 
-### Modern Web Dev (2D)  + With React (3D) -  08-12.04.2019 - Wroclaw
-
-The list is open :unlock:
-
-| TRAINER      |    08.04 (MWD1)    |   09.04 (MWD2)     |    10.04 (React1)  |   11.04 (React2)   |   12.04 (React3)   |
-| :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
-| Augustyn B   |                    |                    |                    |                    |                    |
-| Pawel Ch     |                    |                    |                    |                    |                    |
-| Marcin Ch    |                    |                    |                    |                    |                    |
-| Krystian J   |                    |                    |                    |                    |                    |
-| Michal J     |                    |                    |                    |                    |                    |
-| Adam K       |                    |                    |                    |                    |                    |
-| Mateusz K    |                    |                    |                    |                    |                    |
-| Ralph L      | :new:              | :new:              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Robert L     | :x:                | :new:              | :heavy_check_mark: | :heavy_check_mark: raczej od południa  | :heavy_check_mark: |
-| Marek M      |                    |                    |                    |                    |                    |
-| Dariusz P    |                    |                    |                    |                    |                    |
-| Adam P       |                    |                    |                    |                    |                    |
-| Mikolaj R    |                    |                    |                    |                    |                    |
-| Rostyslav S  |                    |                    |                    |                    |                    |
-| Marcin S     |                    |                    |                    |                    |                    |
-| Mieczyslaw S |                    |                    |                    |                    |                    |
-| Tomasz Sz    |                    |                    |                    |                    |                    |
-| Andrzej T    |                    |                    |                    |                    |                    |
-| Tomasz W     |                    |                    |                    |                    |                    |
-| Patrycja S   |                    |                    |                    |                    |                    |
-
-
-
 ### Introduction to JS (2D) -  06-07.05.2019 - Wroclaw
 
 The list is open :unlock:

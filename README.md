@@ -67,7 +67,7 @@ The list is open :unlock:
 | Pawel Ch     |                    |                    |
 | Marcin Ch    |                    |                    |
 | Krystian J   |                    |                    |
-| Michal J     |                    |                    |
+| Michal J     | :new:              | :new:              |
 | Adam K       |                    |                    |
 | Mateusz K    |                    |                    |
 | Ralph L      | :new:              | :new:              |
@@ -96,7 +96,7 @@ The list is open :unlock:
 | Pawel Ch     |                    |                    |
 | Marcin Ch    |                    |                    |
 | Krystian J   |                    |                    |
-| Michal J     |                    |                    |
+| Michal J     | :heavy_check_mark: | :heavy_check_mark: |
 | Adam K       |                    |                    |
 | Mateusz K    |                    |                    |
 | Ralph L      |                    |                    |
@@ -125,7 +125,7 @@ The list is open :unlock:
 | Pawel Ch     |                    |                    |                    |                    |                    |
 | Marcin Ch    |                    |                    |                    |                    |                    |
 | Krystian J   |                    |                    |                    |                    |                    |
-| Michal J     |                    |                    |                    |                    |                    |
+| Michal J     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Adam K       |                    |                    |                    |                    |                    |
 | Mateusz K    |                    |                    |                    |                    |                    |
 | Ralph L      |                    |                    |                    |                    |                    |

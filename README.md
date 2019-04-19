@@ -57,35 +57,6 @@ Modern Web Development (2D) ...:
 
 ## Upcomming Trainings - chronological order
 
-### Introduction to JS (2D) -  06-07.05.2019 - Wroclaw
-
-The list is open :unlock:
-
-| TRAINER      |       06.05        |       07.05        |
-| :----------- | :----------------: | :----------------: |
-| Augustyn B   |                    |                    |
-| Pawel Ch     |                    |                    |
-| Marcin Ch    |                    |                    |
-| Krystian J   |                    |                    |
-| Michal J     | :new:              | :new:              |
-| Adam K       |                    |                    |
-| Mateusz K    |                    |                    |
-| Ralph L      | :new:              | :new:              |
-| Robert L     |                    |                    |
-| Marek M      |                    |                    |
-| Dariusz P    |                    |                    |
-| Adam P       |                    |                    |
-| Mikolaj R    |                    |                    |
-| Rostyslav S  |                    |                    |
-| Marcin S     |                    |                    |
-| Mieczyslaw S |                    |                    |
-| Tomasz Sz    |                    |                    |
-| Andrzej T    |                    |                    |
-| Tomasz W     |                    |                    |
-| Patrycja S   |                    |                    |
-
-
-
 ### Angular Advanced (2D) -  23-24.05.2019 - Wroclaw
 
 The list is open :unlock:

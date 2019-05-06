@@ -115,4 +115,57 @@ The list is open :unlock:
 
 
 
+### Modern Web Dev (2D)  + With React (3D) -  23-27.09.2019 - Wroclaw
 
+The list is open :unlock:
+
+| TRAINER      |    23.09 (MWD1)    |   24.09 (MWD2)     |    25.09 (React1)  |   26.09 (React2)   |   27.09 (React3)   |
+| :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |                    |                    |                    |
+| Pawel Ch     |                    |                    |                    |                    |                    |
+| Marcin Ch    |                    |                    |                    |                    |                    |
+| Krystian J   |                    |                    |                    |                    |                    |
+| Michal J     |                    |                    |                    |                    |                    |
+| Adam K       |                    |                    |                    |                    |                    |
+| Mateusz K    |                    |                    |                    |                    |                    |
+| Ralph L      |                    |                    |                    |                    |                    |
+| Robert L     |                    |                    |                    |                    |                    |
+| Marek M      |                    |                    |                    |                    |                    |
+| Dariusz P    |                    |                    |                    |                    |                    |
+| Adam P       |                    |                    |                    |                    |                    |
+| Mikolaj R    |                    |                    |                    |                    |                    |
+| Rostyslav S  |                    |                    |                    |                    |                    |
+| Marcin S     |                    |                    |                    |                    |                    |
+| Mieczyslaw S |                    |                    |                    |                    |                    |
+| Tomasz Sz    |                    |                    |                    |                    |                    |
+| Andrzej T    |                    |                    |                    |                    |                    |
+| Tomasz W     |                    |                    |                    |                    |                    |
+| Patrycja S   |                    |                    |                    |                    |                    | 
+
+
+### Introduction to JS (2D) -  02-03.12.2019 - Wroclaw
+
+The list is open :unlock:
+
+| TRAINER      |       02.12        |       03.12        |
+| :----------- | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |
+| Pawel Ch     |                    |                    |
+| Marcin Ch    |                    |                    |
+| Krystian J   |                    |                    |
+| Michal J     |                    |                    |
+| Adam K       |                    |                    |
+| Mateusz K    |                    |                    |
+| Ralph L      |                    |                    |
+| Robert L     |                    |                    |
+| Marek M      |                    |                    |
+| Dariusz P    |                    |                    |
+| Adam P       |                    |                    |
+| Mikolaj R    |                    |                    |
+| Rostyslav S  |                    |                    |
+| Marcin S     |                    |                    |
+| Mieczyslaw S |                    |                    |
+| Tomasz Sz    |                    |                    |
+| Andrzej T    |                    |                    |
+| Tomasz W     |                    |                    |
+| Patrycja S   |                    |                    |

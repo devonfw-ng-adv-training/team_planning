@@ -98,7 +98,7 @@ The list is open :unlock:
 | Krystian J   |                    |                    |                    |                    |                    |
 | Michal J     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Adam K       |                    |                    |                    |                    |                    |
-| Mateusz K    |                    |                    |                    |                    |                    |
+| Mateusz K    |                    |                    | :new:              | :new:              | :new:              |
 | Ralph L      |                    |                    |                    |                    |                    |
 | Robert L     |                    |                    |                    |                    |                    |
 | Marek M      |                    |                    |                    |                    |                    |

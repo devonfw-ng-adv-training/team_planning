@@ -100,7 +100,7 @@ The list is open :unlock:
 | Adam K       |                    |                    |                    |                    |                    |
 | Mateusz K    |                    |                    | :new:              | :new:              | :new:              |
 | Ralph L      |                    |                    |                    |                    |                    |
-| Robert L     |                    |                    |                    |                    |                    |
+| Robert L     |                    |                    | :heavy_check_mark: |                    |                    |
 | Marek M      |                    |                    |                    |                    |                    |
 | Dariusz P    |                    |                    |                    |                    |                    |
 | Adam P       |                    |                    |                    |                    |                    |

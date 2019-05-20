@@ -78,7 +78,7 @@ The list is open :unlock:
 | Rostyslav S  |                    |                    |
 | Marcin S     |                    |                    |
 | Mieczyslaw S |                    |                    |
-| Tomasz Sz    |                    |                    |
+| Tomasz Sz    | :x:                | :x:                |
 | Andrzej T    | :new:              | :new:              |
 | Tomasz W     |                    |                    |
 | Patrycja S   |                    |                    |
@@ -107,7 +107,7 @@ The list is open :unlock:
 | Rostyslav S  |                    |                    |                    |                    |                    |
 | Marcin S     |                    |                    |                    |                    |                    |
 | Mieczyslaw S |                    |                    |                    |                    |                    |
-| Tomasz Sz    |                    |                    |                    |                    |                    |
+| Tomasz Sz    | :x:                | :x:                | :x:                | :x:                | :x:                |
 | Andrzej T    | :new:              | :new:              | :new:              | :new:              | :new:              |
 | Tomasz W     |                    |                    |                    |                    |                    |
 | Patrycja S   |                    |                    |                    |                    |                    |

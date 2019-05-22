@@ -67,7 +67,7 @@ The list is open :unlock:
 | Pawel Ch     |                    |                    |
 | Marcin Ch    |                    |                    |
 | Krystian J   |                    |                    |
-| Michal J     | :heavy_check_mark: | :heavy_check_mark: |
+| Michal J     |                    |                    |
 | Adam K       |                    |                    |
 | Mateusz K    |                    |                    |
 | Ralph L      |                    |                    |

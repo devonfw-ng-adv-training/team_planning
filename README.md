@@ -110,7 +110,7 @@ The list is open :unlock:
 | Tomasz Sz    | :x:                | :x:                | :x:                | :x:                | :x:                |
 | Andrzej T    | :new:              | :new:              | :new:              | :new:              | :new:              |
 | Tomasz W     |                    |                    |                    |                    |                    |
-| Patrycja S   |                    |                    |                    |                    |                    |
+| Patrycja S   |                    |                    |      :new:         |       :new:        |         :new:      |
 
 
 
@@ -167,4 +167,4 @@ The list is open :unlock:
 | Tomasz Sz    |                    |                    |
 | Andrzej T    |                    |                    |
 | Tomasz W     |                    |                    |
-| Patrycja S   |                    |                    |
+| Patrycja S   |      :new:         |      :new:         |

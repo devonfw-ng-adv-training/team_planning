@@ -138,7 +138,7 @@ The list is open :unlock:
 | Mieczyslaw S |                    |                    |                    |                    |                    |
 | Tomasz Sz    |                    |                    |                    |                    |                    |
 | Andrzej T    |                    |                    |                    |                    |                    |
-| Tomasz W     |                    |                    |                    |                    |                    |
+| Tomasz W     |        :new:       |       :new:        |         :new:      |         :new:      |       :new:        |
 | Patrycja S   |                    |                    |                    |                    |                    | 
 
 

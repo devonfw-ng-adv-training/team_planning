@@ -65,7 +65,7 @@ The list is open :unlock:
 | :----------- | :----------------: | :----------------: |
 | Augustyn B   |                    |                    |
 | Pawel Ch     |                    |                    |
-| Marcin Ch    |                    |                    |
+| Marcin Ch    | :x:                | :x:                |
 | Krystian J   |                    |                    |
 | Michal J     |                    |                    |
 | Adam K       |                    |                    |
@@ -93,7 +93,7 @@ The list is open :unlock:
 | :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
 | Augustyn B   |                    |                    |                    |                    |                    |
 | Pawel Ch     |                    |                    |                    |                    |                    |
-| Marcin Ch    |                    |                    |                    |                    |                    |
+| Marcin Ch    | :x:                | :x:                | :x:                | :x:                | :x:                |
 | Krystian J   |                    |                    |                    |                    |                    |
 | Michal J     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Adam K       |                    |                    |                    |                    |                    |
@@ -122,7 +122,7 @@ The list is open :unlock:
 | :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
 | Augustyn B   |                    |                    |                    |                    |                    |
 | Pawel Ch     |                    |                    |                    |                    |                    |
-| Marcin Ch    |                    |                    |                    |                    |                    |
+| Marcin Ch    | :new:              | :new:              | :new:              | :new:              | :new:              |
 | Krystian J   |                    |                    |                    |                    |                    |
 | Michal J     |                    |                    |                    |                    |                    |
 | Adam K       |                    |                    |                    |                    |                    |
@@ -150,7 +150,7 @@ The list is open :unlock:
 | :----------- | :----------------: | :----------------: |
 | Augustyn B   |                    |                    |
 | Pawel Ch     |                    |                    |
-| Marcin Ch    |                    |                    |
+| Marcin Ch    | :heavy_check_mark: | :heavy_check_mark: |
 | Krystian J   |                    |                    |
 | Michal J     |                    |                    |
 | Adam K       |                    |                    |

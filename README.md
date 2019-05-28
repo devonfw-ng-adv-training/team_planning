@@ -57,34 +57,6 @@ Modern Web Development (2D) ...:
 
 ## Upcomming Trainings - chronological order
 
-### Angular Advanced (2D) -  23-24.05.2019 - Wroclaw
-
-The list is open :unlock:
-
-| TRAINER      |       23.05        |       24.05        |
-| :----------- | :----------------: | :----------------: |
-| Augustyn B   |                    |                    |
-| Pawel Ch     |                    |                    |
-| Marcin Ch    | :x:                | :x:                |
-| Krystian J   |                    |                    |
-| Michal J     |                    |                    |
-| Adam K       |                    |                    |
-| Mateusz K    |                    |                    |
-| Ralph L      |                    |                    |
-| Robert L     |                    |                    |
-| Marek M      |                    |                    |
-| Dariusz P    |                    |                    |
-| Mikolaj R    |                    |                    |
-| Rostyslav S  |                    |                    |
-| Marcin S     |                    |                    |
-| Mieczyslaw S |                    |                    |
-| Tomasz Sz    | :x:                | :x:                |
-| Andrzej T    | :new:              | :new:              |
-| Tomasz W     |                    |                    |
-| Patrycja S   |                    |                    |
-
-
-
 ### Modern Web Dev (2D)  + With Angular (3D) -  03-07.06.2019 - Wroclaw
 
 The list is open :unlock:

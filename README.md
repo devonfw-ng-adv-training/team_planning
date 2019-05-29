@@ -59,32 +59,16 @@ Modern Web Development (2D) ...:
 
 ### Modern Web Dev (2D)  + With Angular (3D) -  03-07.06.2019 - Wroclaw
 
-The list is open :unlock:
+The list is open :lock:
 
 | TRAINER      |       03.06 (MWD1) |       04.06 (MWD2) |   05.06 (Angular1) |  06.06 (Angular2)  |  07.06 (Angular3)  |
 | :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
-| Augustyn B   |                    |                    |                    |                    |                    |
-| Pawel Ch     |                    |                    |                    |                    |                    |
-| Marcin Ch    | :x:                | :x:                | :x:                | :x:                | :x:                |
-| Krystian J   |                    |                    |                    |                    |                    |
 | Michal J     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Adam K       |                    |                    |                    |                    |                    |
 | Mateusz K    |                    |                    | :new:              | :new:              | :new:              |
-| Ralph L      |                    |                    |                    |                    |                    |
 | Robert L     |                    |                    | :heavy_check_mark: |                    |                    |
-| Marek M      |                    |                    |                    |                    |                    |
-| Dariusz P    |                    |                    |                    |                    |                    |
-| Adam P       |                    |                    |                    |                    |                    |
-| Mikolaj R    |                    |                    |                    |                    |                    |
-| Rostyslav S  |                    |                    |                    |                    |                    |
-| Marcin S     |                    |                    |                    |                    |                    |
-| Mieczyslaw S |                    |                    |                    |                    |                    |
-| Tomasz Sz    | :x:                | :x:                | :x:                | :x:                | :x:                |
+| Marek M      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Andrzej T    | :new:              | :new:              | :new:              | :new:              | :new:              |
-| Tomasz W     |                    |                    |                    |                    |                    |
 | Patrycja S   |                    |                    |      :new:         |       :new:        |         :new:      |
-
-
 
 ### Modern Web Dev (2D)  + With React (3D) -  23-27.09.2019 - Wroclaw
 

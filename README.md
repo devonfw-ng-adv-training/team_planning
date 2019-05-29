@@ -75,7 +75,7 @@ The list is open :unlock:
 | Marek M      |                    |                    |                    |                    |                    |
 | Dariusz P    |                    |                    |                    |                    |                    |
 | Adam P       |                    |                    |                    |                    |                    |
-| Mikolaj R    |                    |                    |                    |                    |                    |
+| Mikolaj R    | :new:              | :new:              |                    |                    |                    |
 | Rostyslav S  |                    |                    |                    |                    |                    |
 | Marcin S     |                    |                    |                    |                    |                    |
 | Mieczyslaw S |                    |                    |                    |                    |                    |

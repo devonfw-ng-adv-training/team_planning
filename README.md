@@ -69,6 +69,7 @@ The list is open :lock:
 | Marek M      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Andrzej T    | :new:              | :new:              | :new:              | :new:              | :new:              |
 | Patrycja S   |                    |                    |      :new:         |       :new:        |         :new:      |
+| Mikolaj R    | :new:              | :new:              |                    |                    |                    |
 
 ### Modern Web Dev (2D)  + With React (3D) -  23-27.09.2019 - Wroclaw
 

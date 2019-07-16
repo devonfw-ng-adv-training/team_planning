@@ -85,7 +85,7 @@ The list is open :unlock:
 | Adam K       |                    |                    |                    |                    |                    |
 | Mateusz K    |                    |                    |                    |                    |                    |
 | Ralph L      |                    |                    |                    |                    |                    |
-| Robert L     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Robert L     |        :new:       |       :new:        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marek M      |                    |                    |                    |                    |                    |
 | Dariusz P    |                    |                    |                    |                    |                    |
 | Adam P       |                    |                    |                    |                    |                    |

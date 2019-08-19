@@ -57,20 +57,6 @@ Modern Web Development (2D) ...:
 
 ## Upcomming Trainings - chronological order
 
-### Modern Web Dev (2D)  + With Angular (3D) -  03-07.06.2019 - Wroclaw
-
-The list is open :lock:
-
-| TRAINER      |       03.06 (MWD1) |       04.06 (MWD2) |   05.06 (Angular1) |  06.06 (Angular2)  |  07.06 (Angular3)  |
-| :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
-| Michal J     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Mateusz K    |                    |                    | :new:              | :new:              | :new:              |
-| Robert L     |                    |                    | :heavy_check_mark: |                    |                    |
-| Marek M      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Andrzej T    | :new:              | :new:              | :new:              | :new:              | :new:              |
-| Patrycja S   |                    |                    |      :new:         |       :new:        |         :new:      |
-| Mikolaj R    | :new:              | :new:              |                    |                    |                    |
-
 ### Modern Web Dev (2D)  + With React (3D) -  23-27.09.2019 - Wroclaw
 
 The list is open :unlock:

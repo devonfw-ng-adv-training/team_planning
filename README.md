@@ -83,7 +83,7 @@ The list is open :unlock:
 | Andrzej T    |                    |                    |                    |                    |                    |
 | Tomasz W     |        :new:       |       :new:        |         :new:      |         :new:      |       :new:        |
 | Patrycja S   |                    |                    |                    |                    |                    | 
-| Kacper O     |                    |                    |                    |         :new:      |       :new:        |
+| Kacper O     |        :x:         |        :x:         |        :x:         |        :new:       |       :new:        |
 
 
 ### Introduction to JS (2D) -  02-03.12.2019 - Wroclaw

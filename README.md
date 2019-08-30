@@ -64,7 +64,7 @@ The list is open :unlock:
 | TRAINER      |    23.09 (MWD1)    |   24.09 (MWD2)     |    25.09 (React1)  |   26.09 (React2)   |   27.09 (React3)   |
 | :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
 | Augustyn B   |                    |                    |                    |                    |                    |
-| Pawel Ch     |                    |                    |                    |                    |                    |
+| Pawel Ch     |                    |                    | :heavy_check_mark: | :heavy_check_mark: |                    |
 | Marcin Ch    | :new:              | :new:              | :new:              | :new:              | :new:              |
 | Krystian J   |                    |                    |                    |                    |                    |
 | Michal J     |                    |                    |                    |                    |                    |

@@ -80,7 +80,7 @@ The list is open :unlock:
 | Marcin S     |                    |                    |                    |                    |                    |
 | Mieczyslaw S |                    |                    |                    |                    |                    |
 | Tomasz Sz    |                    |                    |                    |                    |                    |
-| Andrzej T    |                    |                    |                    |                    |                    |
+| Andrzej T    | :heavy_check_mark: | :heavy_check_mark: |                    |                    |                    |
 | Tomasz W     |        :new:       |       :new:        |         :new:      |         :new:      |       :new:        |
 | Patrycja S   |                    |                    |                    |                    |                    | 
 | Kacper O     |        :x:         |        :x:         |        :x:         |        :new:       |       :new:        |
@@ -109,6 +109,6 @@ The list is open :unlock:
 | Marcin S     |                    |                    |
 | Mieczyslaw S |                    |                    |
 | Tomasz Sz    |                    |                    |
-| Andrzej T    |                    |                    |
+| Andrzej T    | :new:              | :new:              |
 | Tomasz W     |      :new:         |      :new:         |
 | Patrycja S   |      :new:         |      :new:         |

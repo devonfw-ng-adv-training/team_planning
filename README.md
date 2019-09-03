@@ -70,7 +70,7 @@ The list is open :unlock:
 | Michal J     |                    |                    |                    |                    |                    |
 | Adam K       |                    |                    |                    |                    |                    |
 | Mateusz K    |                    |                    |                    |                    |                    |
-| Ralph L      |                    |                    |                    |                    |                    |
+| Ralph L      |        :new:       |       :new:        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Robert L     |        :new:       |       :new:        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marek M      |                    |                    |                    |                    |                    |
 | Dariusz P    |                    |                    |                    |                    |                    |

@@ -57,58 +57,203 @@ Modern Web Development (2D) ...:
 
 ## Upcomming Trainings - chronological order
 
-### Modern Web Dev (2D)  + With React (3D) -  23-27.09.2019 - Wroclaw
+### Introduction to JS (2D) - 02-03.03.2020 - Wroclaw
 
 The list is open :unlock:
 
-| TRAINER      |    23.09 (MWD1)    |   24.09 (MWD2)     |    25.09 (React1)  |   26.09 (React2)   |   27.09 (React3)   |
-| :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
-| Augustyn B   |                    |                    |                    |                    |                    |
-| Pawel Ch     |                    |                    | :heavy_check_mark: | :heavy_check_mark: |                    |
-| Marcin Ch    | :new:              | :new:              | :new:              | :new:              | :new:              |
-| Krystian J   |                    |                    |                    |                    |                    |
-| Michal J     |                    |                    |                    |                    |                    |
-| Adam K       |                    |                    |                    |                    |                    |
-| Mateusz K    |                    |                    |                    |                    |                    |
-| Ralph L      |        :new:       |       :new:        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Robert L     |        :new:       |       :new:        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Marek M      |                    |                    |                    |                    |                    |
-| Dariusz P    |                    |                    |                    |                    |                    |
-| Adam P       |                    |                    |                    |                    |                    |
-| Mikolaj R    |                    |                    |                    |                    |                    |
-| Rostyslav S  |                    |                    |                    |                    |                    |
-| Marcin S     |                    |                    |                    |                    |                    |
-| Mieczyslaw S |                    |                    |                    |                    |                    |
-| Tomasz Sz    |                    |                    |                    |                    |                    |
-| Andrzej T    | :heavy_check_mark: | :heavy_check_mark: |                    |                    |                    |
-| Tomasz W     |        :new:       |       :new:        |         :new:      |         :new:      |       :new:        |
-| Patrycja S   |                    |                    |                    |                    |                    | 
-| Kacper O     |        :x:         |        :x:         |        :x:         |        :new:       |       :new:        |
-
-
-### Introduction to JS (2D) -  02-03.12.2019 - Wroclaw
-
-The list is open :unlock:
-
-| TRAINER      |       02.12        |       03.12        |
+| TRAINER      |       02.03        |       03.03        |
 | :----------- | :----------------: | :----------------: |
 | Augustyn B   |                    |                    |
 | Pawel Ch     |                    |                    |
-| Marcin Ch    | :heavy_check_mark: | :heavy_check_mark: |
-| Krystian J   |                    |                    |
+| Marcin Ch    |                    |                    |
 | Michal J     |                    |                    |
 | Adam K       |                    |                    |
-| Mateusz K    |                    |                    |
 | Ralph L      |                    |                    |
 | Robert L     |                    |                    |
 | Marek M      |                    |                    |
 | Dariusz P    |                    |                    |
 | Adam P       |                    |                    |
-| Mikolaj R    |       :new:        |      :new:         |
+| Mikolaj R    |                    |                    |
 | Rostyslav S  |                    |                    |
 | Marcin S     |                    |                    |
 | Mieczyslaw S |                    |                    |
-| Tomasz Sz    |                    |                    |
-| Andrzej T    | :new:              | :new:              |
-| Tomasz W     |      :new:         |      :new:         |
-| Patrycja S   |      :new:         |      :new:         |
+| Andrzej T    |                    |                    |
+| Tomasz W     |                    |                    |
+| Patrycja S   |                    |                    |
+| Kacper O     |                    |                    |
+
+### Modern Web Dev (2D) + With Angular (3D) - 20-24.04.2020 - Wroclaw
+
+The list is open :unlock:
+
+| TRAINER      |    20.04 (MWD1)    |   21.04 (MWD2)     |  22.04 (Angular1)  |  23.04 (Angular3)  |  24.04 (Angular3)  |
+| :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |                    |                    |                    |
+| Pawel Ch     |                    |                    |                    |                    |                    |
+| Marcin Ch    |                    |                    |                    |                    |                    |
+| Michal J     |                    |                    |                    |                    |                    |
+| Adam K       |                    |                    |                    |                    |                    |
+| Mateusz K    |                    |                    |                    |                    |                    |
+| Ralph L      |                    |                    |                    |                    |                    |
+| Robert L     |                    |                    |                    |                    |                    |
+| Marek M      |                    |                    |                    |                    |                    |
+| Dariusz P    |                    |                    |                    |                    |                    |
+| Mikolaj R    |                    |                    |                    |                    |                    |
+| Rostyslav S  |                    |                    |                    |                    |                    |
+| Marcin S     |                    |                    |                    |                    |                    |
+| Mieczyslaw S |                    |                    |                    |                    |                    |
+| Andrzej T    |                    |                    |                    |                    |                    |
+| Tomasz W     |                    |                    |                    |                    |                    |
+| Patrycja S   |                    |                    |                    |                    |                    |
+| Kacper O     |                    |                    |                    |                    |                    |
+
+### Modern Web Dev (2D) + With React (3D) - 20-24.04.2020 - Wroclaw
+
+The list is open :unlock:
+
+| TRAINER      |    20.04 (MWD1)    |   21.04 (MWD2)     |  22.04 (React1)    |  23.04 (React3)      |  24.04 (React3)  |
+| :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |                    |                    |                    |
+| Pawel Ch     |                    |                    |                    |                    |                    |
+| Marcin Ch    |                    |                    |                    |                    |                    |
+| Michal J     |                    |                    |                    |                    |                    |
+| Adam K       |                    |                    |                    |                    |                    |
+| Mateusz K    |                    |                    |                    |                    |                    |
+| Ralph L      |                    |                    |                    |                    |                    |
+| Robert L     |                    |                    |                    |                    |                    |
+| Marek M      |                    |                    |                    |                    |                    |
+| Dariusz P    |                    |                    |                    |                    |                    |
+| Mikolaj R    |                    |                    |                    |                    |                    |
+| Rostyslav S  |                    |                    |                    |                    |                    |
+| Marcin S     |                    |                    |                    |                    |                    |
+| Mieczyslaw S |                    |                    |                    |                    |                    |
+| Andrzej T    |                    |                    |                    |                    |                    |
+| Tomasz W     |                    |                    |                    |                    |                    |
+| Patrycja S   |                    |                    |                    |                    |                    |
+| Kacper O     |                    |                    |                    |                    |                    |
+
+### Angular Advanced (2D) - 02-03.06.2020 - Wroclaw
+
+The list is open :unlock:
+
+| TRAINER      |       02.06        |       03.06        |
+| :----------- | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |
+| Pawel Ch     |                    |                    |
+| Marcin Ch    |                    |                    |
+| Michal J     |                    |                    |
+| Adam K       |                    |                    |
+| Ralph L      |                    |                    |
+| Robert L     |                    |                    |
+| Marek M      |                    |                    |
+| Dariusz P    |                    |                    |
+| Adam P       |                    |                    |
+| Mikolaj R    |                    |                    |
+| Rostyslav S  |                    |                    |
+| Marcin S     |                    |                    |
+| Mieczyslaw S |                    |                    |
+| Andrzej T    |                    |                    |
+| Tomasz W     |                    |                    |
+| Patrycja S   |                    |                    |
+| Kacper O     |                    |                    |
+
+### Devon Framework Java Advanced (2D) - 17-18.06.2020 - Wroclaw
+
+The list is open :unlock:
+
+| TRAINER      |       17.06        |       18.06        |
+| :----------- | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |
+| Pawel Ch     |                    |                    |
+| Marcin Ch    |                    |                    |
+| Michal J     |                    |                    |
+| Adam K       |                    |                    |
+| Ralph L      |                    |                    |
+| Robert L     |                    |                    |
+| Marek M      |                    |                    |
+| Dariusz P    |                    |                    |
+| Adam P       |                    |                    |
+| Mikolaj R    |                    |                    |
+| Rostyslav S  |                    |                    |
+| Marcin S     |                    |                    |
+| Mieczyslaw S |                    |                    |
+| Andrzej T    |                    |                    |
+| Tomasz W     |                    |                    |
+| Patrycja S   |                    |                    |
+| Kacper O     |                    |                    |
+
+### Modern Web Dev (2D) + With Angular (3D) - 21-25.09.2020 - Wroclaw
+
+The list is open :unlock:
+
+| TRAINER      |    21.09 (MWD1)    |   22.09 (MWD2)     |  23.09 (Angular1)  |  24.09 (Angular3)  |  25.09 (Angular3)  |
+| :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |                    |                    |                    |
+| Pawel Ch     |                    |                    |                    |                    |                    |
+| Marcin Ch    |                    |                    |                    |                    |                    |
+| Michal J     |                    |                    |                    |                    |                    |
+| Adam K       |                    |                    |                    |                    |                    |
+| Mateusz K    |                    |                    |                    |                    |                    |
+| Ralph L      |                    |                    |                    |                    |                    |
+| Robert L     |                    |                    |                    |                    |                    |
+| Marek M      |                    |                    |                    |                    |                    |
+| Dariusz P    |                    |                    |                    |                    |                    |
+| Mikolaj R    |                    |                    |                    |                    |                    |
+| Rostyslav S  |                    |                    |                    |                    |                    |
+| Marcin S     |                    |                    |                    |                    |                    |
+| Mieczyslaw S |                    |                    |                    |                    |                    |
+| Andrzej T    |                    |                    |                    |                    |                    |
+| Tomasz W     |                    |                    |                    |                    |                    |
+| Patrycja S   |                    |                    |                    |                    |                    |
+| Kacper O     |                    |                    |                    |                    |                    |
+
+### Modern Web Dev (2D) + With React (3D) - 21-25.09.2020 - Wroclaw
+
+The list is open :unlock:
+
+| TRAINER      |    21.09 (MWD1)    |   22.09 (MWD2)     |  23.09 (React1)    |  24.09 (React3)      |  25.09 (React3)  |
+| :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |                    |                    |                    |
+| Pawel Ch     |                    |                    |                    |                    |                    |
+| Marcin Ch    |                    |                    |                    |                    |                    |
+| Michal J     |                    |                    |                    |                    |                    |
+| Adam K       |                    |                    |                    |                    |                    |
+| Mateusz K    |                    |                    |                    |                    |                    |
+| Ralph L      |                    |                    |                    |                    |                    |
+| Robert L     |                    |                    |                    |                    |                    |
+| Marek M      |                    |                    |                    |                    |                    |
+| Dariusz P    |                    |                    |                    |                    |                    |
+| Mikolaj R    |                    |                    |                    |                    |                    |
+| Rostyslav S  |                    |                    |                    |                    |                    |
+| Marcin S     |                    |                    |                    |                    |                    |
+| Mieczyslaw S |                    |                    |                    |                    |                    |
+| Andrzej T    |                    |                    |                    |                    |                    |
+| Tomasz W     |                    |                    |                    |                    |                    |
+| Patrycja S   |                    |                    |                    |                    |                    |
+| Kacper O     |                    |                    |                    |                    |                    |
+
+
+### Introduction to JS (2D) -  04-05.11.2020 - Wroclaw
+
+The list is open :unlock:
+
+| TRAINER      |       04.11        |       05.11        |
+| :----------- | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |
+| Pawel Ch     |                    |                    |
+| Marcin Ch    |                    |                    |
+| Michal J     |                    |                    |
+| Adam K       |                    |                    |
+| Ralph L      |                    |                    |
+| Robert L     |                    |                    |
+| Marek M      |                    |                    |
+| Dariusz P    |                    |                    |
+| Adam P       |                    |                    |
+| Mikolaj R    |                    |                    |
+| Rostyslav S  |                    |                    |
+| Marcin S     |                    |                    |
+| Mieczyslaw S |                    |                    |
+| Andrzej T    |                    |                    |
+| Tomasz W     |                    |                    |
+| Patrycja S   |                    |                    |
+| Kacper O     |                    |                    |

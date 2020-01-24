@@ -18,7 +18,7 @@ Mailing List: DL PL JavaScriptCommunity
 
 ![Learning Path](/LP.PNG)
 
-## Repositories pre 2019:
+## Repositories pre 2020:
 
 Rich Web Client:
 

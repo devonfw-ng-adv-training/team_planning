@@ -232,6 +232,30 @@ The list is open :unlock:
 | Patrycja S   |                    |                    |                    |                    |                    |
 | Kacper O     |                    |                    |                    |                    |                    |
 
+### React Advanced (2D) -  19-20.10.2020 - Wroclaw
+
+The list is open :unlock:
+
+| TRAINER      |       19.10        |       20.10        |
+| :----------- | :----------------: | :----------------: |
+| Augustyn B   |                    |                    |
+| Pawel Ch     |                    |                    |
+| Marcin Ch    |                    |                    |
+| Michal J     |                    |                    |
+| Adam K       |                    |                    |
+| Ralph L      |                    |                    |
+| Robert L     |                    |                    |
+| Marek M      |                    |                    |
+| Dariusz P    |                    |                    |
+| Adam P       |                    |                    |
+| Mikolaj R    |                    |                    |
+| Rostyslav S  |                    |                    |
+| Marcin S     |                    |                    |
+| Mieczyslaw S |                    |                    |
+| Andrzej T    |                    |                    |
+| Tomasz W     |                    |                    |
+| Patrycja S   |                    |                    |
+| Kacper O     |                    |                    |
 
 ### Introduction to JS (2D) -  04-05.11.2020 - Wroclaw
 

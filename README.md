@@ -102,7 +102,7 @@ The list is open :unlock:
 | Rostyslav S  |                    |                    |                    |                    |                    |
 | Marcin S     |                    |                    |                    |                    |                    |
 | Mieczyslaw S |                    |                    |                    |                    |                    |
-| Andrzej T    |                    |                    |                    |                    |                    |
+| Andrzej T    | :heavy_check_mark: |:heavy_check_mark:  | :heavy_check_mark: |                    |                    |
 | Tomasz W     |                    |                    |                    |                    |                    |
 | Patrycja S   |                    |                    |                    |                    |                    |
 | Kacper O     |                    |                    |                    |                    |                    |
@@ -202,7 +202,7 @@ The list is open :unlock:
 | Rostyslav S  |                    |                    |                    |                    |                    |
 | Marcin S     |                    |                    |                    |                    |                    |
 | Mieczyslaw S |                    |                    |                    |                    |                    |
-| Andrzej T    |                    |                    |                    |                    |                    |
+| Andrzej T    | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:  | :heavy_check_mark: |heavy_check_mark:   |
 | Tomasz W     |                    |                    |                    |                    |                    |
 | Patrycja S   |                    |                    |                    |                    |                    |
 | Kacper O     |                    |                    |                    |                    |                    |
@@ -277,7 +277,7 @@ The list is open :unlock:
 | Rostyslav S  |                    |                    |
 | Marcin S     |                    |                    |
 | Mieczyslaw S |                    |                    |
-| Andrzej T    |                    |                    |
+| Andrzej T    | :heavy_check_mark: | :heavy_check_mark: |
 | Tomasz W     |                    |                    |
 | Patrycja S   |                    |                    |
 | Kacper O     |                    |                    |

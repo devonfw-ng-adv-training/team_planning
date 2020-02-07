@@ -78,7 +78,7 @@ The list is open :unlock:
 | Marcin S     |                    |                    |
 | Mieczyslaw S |                    |                    |
 | Andrzej T    |                    |                    |
-| Tomasz W     |                    |                    |
+| Tomasz W     |      :x:           |      :new:         |
 | Patrycja S   |                    |                    |
 | Kacper O     |                    |                    |
 

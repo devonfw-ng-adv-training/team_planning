@@ -114,7 +114,7 @@ The list is open :unlock:
 | TRAINER      |    20.04 (MWD1)    |   21.04 (MWD2)     |  22.04 (React1)    |  23.04 (React3)      |  24.04 (React3)  |
 | :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
 | Augustyn B   |                    |                    |                    |                    |                    |
-| Pawel Ch     |                    |                    |                    |                    |                    |
+| Pawel Ch     |                    |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marcin Ch    |                    |                    |                    |                    |                    |
 | Michal J     |                    |                    |                    |                    |                    |
 | Adam K       |                    |                    |                    |                    |                    |
@@ -214,7 +214,7 @@ The list is open :unlock:
 | TRAINER      |    21.09 (MWD1)    |   22.09 (MWD2)     |  23.09 (React1)    |  24.09 (React3)      |  25.09 (React3)  |
 | :----------- | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
 | Augustyn B   |                    |                    |                    |                    |                    |
-| Pawel Ch     |                    |                    |                    |                    |                    |
+| Pawel Ch     |                    |                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marcin Ch    |                    |                    |                    |                    |                    |
 | Michal J     |                    |                    |                    |                    |                    |
 | Adam K       |                    |                    |                    |                    |                    |
@@ -239,7 +239,7 @@ The list is open :unlock:
 | TRAINER      |       19.10        |       20.10        |
 | :----------- | :----------------: | :----------------: |
 | Augustyn B   |                    |                    |
-| Pawel Ch     |                    |                    |
+| Pawel Ch     | :heavy_check_mark: | :heavy_check_mark: |
 | Marcin Ch    |                    |                    |
 | Michal J     |                    |                    |
 | Adam K       |                    |                    |

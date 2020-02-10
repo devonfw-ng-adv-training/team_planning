@@ -65,7 +65,7 @@ The list is open :unlock:
 | :----------- | :----------------: | :----------------: |
 | Augustyn B   |                    |                    |
 | Pawel Ch     |                    |                    |
-| Marcin Ch    |                    |                    |
+| Marcin Ch    |      :x:           | :heavy_check_mark: |
 | Michal J     |                    |                    |
 | Adam K       |                    |                    |
 | Ralph L      |                    |                    |

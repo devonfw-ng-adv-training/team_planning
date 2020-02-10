@@ -130,7 +130,7 @@ The list is open :unlock:
 | Andrzej T    |                    |                    |                    |                    |                    |
 | Tomasz W     |                    |                    |                    |                    |                    |
 | Patrycja S   |                    |                    |                    |                    |                    |
-| Kacper O     |                    |                    |                    |                    |                    |
+| Kacper O     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 ### Angular Advanced (2D) - 02-03.06.2020 - Wroclaw
 
